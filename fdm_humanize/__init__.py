@@ -14,9 +14,9 @@ logging.basicConfig(level=logging.DEBUG)
 # DEBUGGING:
 # Print the current working directory
 print(os.getcwd())
-# print the directories above the current working directory
-print(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
-print(os.path.abspath(os.path.join(os.getcwd(), os.pardir, os.pardir)))
+# print the contents of the current directory and subdirectories
+for root, dirs, files in os.walk("."):
+    print(root, dirs, files)
 def create_app() -> flask.Flask:
     app = flask.Flask(__name__)
     app.config["UPLOAD_FOLDER"] = "./static/uploaded_files"
