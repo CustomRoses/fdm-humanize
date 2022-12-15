@@ -11,7 +11,12 @@ except ImportError:
 logger = logging.getLogger(__name__)
 logging.basicConfig(level=logging.DEBUG)
 
-
+# DEBUGGING:
+# Print the current working directory
+print(os.getcwd())
+# print the directories above the current working directory
+print(os.path.abspath(os.path.join(os.getcwd(), os.pardir)))
+print(os.path.abspath(os.path.join(os.getcwd(), os.pardir, os.pardir)))
 def create_app() -> flask.Flask:
     app = flask.Flask(__name__)
     app.config["UPLOAD_FOLDER"] = "./static/uploaded_files"
