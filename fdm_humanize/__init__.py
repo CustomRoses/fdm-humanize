@@ -19,8 +19,8 @@ for root, dirs, files in os.walk("."):
     print(root, dirs, files)
 def create_app() -> flask.Flask:
     app = flask.Flask(__name__)
-    app.config["UPLOAD_FOLDER"] = "./static/uploaded_files"
-    app.config["EXTRACTED_FOLDER"] = "./static/extracted"
+    app.config["UPLOAD_FOLDER"] = "./uploaded_files"
+    app.config["EXTRACTED_FOLDER"] = "./extracted"
 
     @app.route('/upload', methods=['POST'])
     def upload_file():
@@ -36,7 +36,7 @@ def create_app() -> flask.Flask:
             # save the file to the desired location
             # generate the filename based on the current time
             try:
-                file.save(os.path.join('./static/uploaded_files', file.filename))
+                file.save(os.path.join('./uploaded_files', file.filename))
             except FileNotFoundError:
                 return 'The uploaded file could not be saved'
             else:
@@ -45,7 +45,7 @@ def create_app() -> flask.Flask:
 
     @app.route('/files')
     def list_files():
-        files = os.listdir('./static/uploaded_files')
+        files = os.listdir('./uploaded_files')
         return flask.render_template('list_files.html', files=files)
 
     @app.route('/files/<filename>')
