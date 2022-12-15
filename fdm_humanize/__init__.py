@@ -3,7 +3,7 @@ import os
 import flask
 
 try:
-    from .humanize import analyse_file
+    from fdm_humanize.humanize import analyse_file
 except ImportError:
     from humanize import analyse_file
 

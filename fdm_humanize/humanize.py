@@ -2,7 +2,7 @@ import json
 import os
 
 try:
-    from .util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
+    from fdm_humanize.util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
 except ImportError:
     from util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
 import logging
