@@ -1,1 +1,1 @@
-web: gunicorn 'fdm_humanizer:create_app()'
+web: gunicorn 'fdm_humanize:create_app()'
