@@ -40,7 +40,7 @@ def create_app() -> flask.Flask:
 
     @app.route('/files')
     def list_files():
-        files = os.listdir('uploaded_files')
+        files = os.listdir('./uploaded_files')
         return flask.render_template('list_files.html', files=files)
 
     @app.route('/files/<filename>')
