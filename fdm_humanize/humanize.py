@@ -34,14 +34,14 @@ def analyse_file(filename) -> tuple[list, list, int]:
     # untar the provided file to a subdirectory of the "extracted" directory, if it is a tar file and if it is not
     # already extracted
 
-    print(os.path.join("./extracted", filename[:-7]))
-    if filename.endswith(".tar.gz") and not os.path.exists(os.path.join("./extracted", filename[:-7])):
+    print(os.path.join("../extracted", filename[:-7]))
+    if filename.endswith(".tar.gz") and not os.path.exists(os.path.join("../extracted", filename[:-7])):
         logger.info("Extracting %s", filename)
-        extract_logs(os.path.join("./uploaded_files", filename), os.path.join("./extracted", filename[:-7]))
+        extract_logs(os.path.join("../uploaded_files", filename), os.path.join("../extracted", filename[:-7]))
     # open all relevant files in the extracted directory
-    if os.path.exists(os.path.join("./extracted", filename[:-7])):
+    if os.path.exists(os.path.join("../extracted", filename[:-7])):
         logger.info("Analysing %s", filename)
-        for root, dirs, files in os.walk(os.path.join("./extracted", filename[:-7])):
+        for root, dirs, files in os.walk(os.path.join("../extracted", filename[:-7])):
             logger.info("Analysing %s", root)
             for file in files:
                 if file == "fdm_health_report.json":
