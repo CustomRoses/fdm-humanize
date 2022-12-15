@@ -1,0 +1,46 @@
+Device Name                             : Disk1
+Enclosure Id                            : 64
+Slot Number                             : 1
+Manufacturer                            : SAMSUNG
+Serial Number                           : S45PNA0N742558
+Model                                   : SAMSUNG MZ7LH480HAHQ-00005
+Interface Type                          : SATA
+Timestamp                               : 2022-11-17 00:18:30
+
+Error Log:
+SMART Error Log Version: 1
+No Errors Logged
+
+
+Extent Error Log:
+SMART Extended Comprehensive Error Log Version: 1 (1 sectors)
+No Errors Logged
+
+
+Extended Self Test Log:
+SMART Extended Self-test Log Version: 1 (1 sectors)
+Num  Test_Description    Status                  Remaining  LifeTime(hours)  LBA_of_first_error
+# 1  Short offline       Completed without error       00%        14         -
+# 2  Extended offline    Completed without error       00%         7         -
+# 3  Short offline       Completed without error       00%         6         -
+
+
+PHY Event Log:
+ID      Size     Value  Description
+0x0001  2            0  Command failed due to ICRC error
+0x0002  2            0  R_ERR response for data FIS
+0x0003  2            0  R_ERR response for device-to-host data FIS
+0x0004  2            0  R_ERR response for host-to-device data FIS
+0x0005  2            0  R_ERR response for non-data FIS
+0x0006  2            0  R_ERR response for device-to-host non-data FIS
+0x0007  2            0  R_ERR response for host-to-device non-data FIS
+0x0008  2            0  Device-to-host non-data FIS retries
+0x0009  2           10  Transition from drive PhyRdy to drive PhyNRdy
+0x000a  2           10  Device-to-host register FISes sent due to a COMRESET
+0x000b  2            0  CRC errors within host-to-device FIS
+0x000d  2            0  Non-CRC errors within host-to-device FIS
+0x000f  2            0  R_ERR response for host-to-device data FIS, CRC
+0x0010  2            0  R_ERR response for host-to-device data FIS, non-CRC
+0x0012  2            0  R_ERR response for host-to-device non-data FIS, CRC
+0x0013  2            0  R_ERR response for host-to-device non-data FIS, non-CRC
+

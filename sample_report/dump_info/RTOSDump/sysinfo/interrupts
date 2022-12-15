@@ -1,0 +1,51 @@
+           CPU0       
+  1: 2713679708       GIC  32 Level     timer
+  2:        689       GIC  64 Level     serial
+  4:         12       GIC 145 Level     comm_dev
+  5:         11       GIC 146 Level     comm_dev
+  6:   42001320       GIC  46 Level     sdio_dev
+  7:         51       GIC  52 Level     18090000.gmac
+  8:          0       GIC  53 Level     18090000.gmac
+  9:  273852342       GIC  54 Level     18090000.gmac
+ 10:          0       GIC  55 Level     18090000.gmac
+ 11:     161217       GIC  65 Level     hisi-uart
+ 12:   60692470       GIC  66 Level     hisi-uart
+ 13:          0       GIC  50 Level     IRQ_GPIO0TO31
+ 14:          0       GIC  51 Level     IRQ_GPIO32TO63
+ 15:          0       GIC  59 Level     IRQ_GPIO64TO95
+ 16:          0       GIC  60 Level     IRQ_GPIO96TO127
+ 17:          0       GIC  61 Level     IRQ_GPIO128TO148
+ 18:          0       GIC  69 Level     spi
+ 20:    9900778       GIC  74 Level     i2c
+ 21:    9901528       GIC  75 Level     i2c
+ 22:       1988       GIC  76 Level     i2c
+ 23: 2500564300       GIC  77 Level     i2c
+ 24:  228791275       GIC  78 Level     i2c
+ 25:  229074876       GIC  79 Level     i2c
+ 30:  389045726       GIC  96 Level     i2c
+ 31:          0       GIC 107 Level     peci
+ 32:    2714012       GIC  88 Level     mctp
+ 33:          0       GIC 108 Level     adc
+ 34:  415040760       GIC 105 Level     bt
+ 35:  772064993       GIC 121 Level     ipmb_dev
+ 39:          0       GIC  71 Level     dmac
+ 44:          0       GIC  41 Level     cpld
+ 45:          0       GIC  70 Level     pwm
+ 46:          0       GIC  36 Level     c51
+ 47:          0       GIC 113 Level     EDMA_IRQ
+ 48:          0       GIC 110 Level     sol
+ 49:      46347       GIC 100 Level     dwc_otg, dwc_otg_pcd
+ 50:       1312       GIC  99 Level     dwc_otg, dwc_otg_pcd
+ 51:       3531       GIC  98 Level     dwc_otg, dwc_otg_pcd
+ 52:          1       GIC  68 Level     ohci_hcd:usb2
+ 53:          0       GIC  67 Level     ehci_hcd:usb1
+FIQ:              fiq_glue
+IPI0:          0  CPU wakeup interrupts
+IPI1:          0  Timer broadcast interrupts
+IPI2:          0  Rescheduling interrupts
+IPI3:          0  Function call interrupts
+IPI4:          0  Single function call interrupts
+IPI5:          0  CPU stop interrupts
+IPI6:          0  IRQ work interrupts
+IPI7:          0  completion interrupts
+Err:          0

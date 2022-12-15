@@ -1,0 +1,16 @@
+<table>
+    <thead>
+        <tr>
+            <th>File Name</th>
+            <th>Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for file in files %}
+            <tr>
+                <td>{{ file }}</td>
+                <td><a href="{{ url_for('show_file_analysis', filename=file) }}">View Analysis</a></td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>

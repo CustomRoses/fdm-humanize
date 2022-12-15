@@ -1,0 +1,7 @@
+dev:    size   erasesize  name
+mtd0: 00080000 00010000 "u-boot"
+mtd1: 00040000 00010000 "reserved"
+mtd2: 00040000 00010000 "cfg_info"
+mtd3: 00080000 00010000 "u-boot_bak"
+mtd4: 00060000 00010000 "reserved_bak"
+mtd5: 00020000 00010000 "env"

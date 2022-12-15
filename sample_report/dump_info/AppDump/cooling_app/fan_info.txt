@@ -1,0 +1,5 @@
+Fan                      | Presence          | PWM      | Speed(RPM)         | Maximum rpm range  | Model             |  PartNum           |  DeviceName        |  Location        
+Fan Module1 Front/Rear   | present /present  | 35%      | 3960  /3960        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan1              |  chassis          
+Fan Module2 Front/Rear   | present /present  | 35%      | 3960  /3960        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan2              |  chassis          
+Fan Module3 Front/Rear   | present /present  | 35%      | 3960  /3960        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan3              |  chassis          
+Fan Module4 Front/Rear   | present /present  | 35%      | 3840  /3840        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan4              |  chassis          

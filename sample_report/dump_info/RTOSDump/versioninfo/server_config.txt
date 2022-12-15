@@ -1,0 +1,265 @@
+---------------------------------------------------------------------------------Cpu  info----------------------------------------------------------------------------
+slot(col 1), presence(col 2),version(col 3), processor ID(col 4), core count(col 5), thread count(col 6), memory technology(col 7), L1 cache(col 8), L2 cache(col 9), L3 cache(col 10), part number(col 11), device name(col 12), location(col 13), SN(col 14)
+Cpu1 , present , Intel(R) Xeon(R) Gold 6252 CPU @ 2.10GHz, 57-06-05-00-FF-FB-EB-BF, 24 cores, 48 threads, 64-bit Capable| Multi-Core| Hardware Thread| Execute Protection| Enhanced Virtualization| Power/Performance Control, 1536 K, 24576 K, 36608 K, 41020793, CPU1, mainboard, 6BAEE2AE5C9AB1D4
+Cpu2 , present , Intel(R) Xeon(R) Gold 6252 CPU @ 2.10GHz, 57-06-05-00-FF-FB-EB-BF, 24 cores, 48 threads, 64-bit Capable| Multi-Core| Hardware Thread| Execute Protection| Enhanced Virtualization| Power/Performance Control, 1536 K, 24576 K, 36608 K, 41020793, CPU2, mainboard, 4628D2B778A5B107
+
+--------------------------------------------------------------------------------Memory info---------------------------------------------------------------------------
+slot(col 1), dimm location(col 2), dimm name(col 3),manufacturer(col 4),     size(col 5), speed(col 6), current speed(col 7), memory type(col 8), SN(col 9),     minimum voltage(col 10), rank(col 11), bit width(col 12), memory technology(col 13),     bom number(col 14), part number(col 15),remaining service life(col 16),     firmware version(col 17), medium temp(col 18), controller temp(col 19),     volatile capacity(col 20), persistent capacity(col 21)), health(col 22)  
+Memory000 , mainboard, DIMM000, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B29610, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory001 , mainboard, DIMM001, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B29624, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory010 , mainboard, DIMM010, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B29656, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory011 , mainboard, DIMM011, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B295D4, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory020 , mainboard, DIMM020, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B29609, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory021 , mainboard, DIMM021, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory030 , mainboard, DIMM030, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B2965D, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory031 , mainboard, DIMM031, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory040 , mainboard, DIMM040, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B2E8D3, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory041 , mainboard, DIMM041, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory050 , mainboard, DIMM050, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B29650, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory051 , mainboard, DIMM051, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory100 , mainboard, DIMM100, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B295BF, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory101 , mainboard, DIMM101, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B297DB, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory110 , mainboard, DIMM110, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B2EBAA, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory111 , mainboard, DIMM111, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B296DF, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory120 , mainboard, DIMM120, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B297EE, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory121 , mainboard, DIMM121, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory130 , mainboard, DIMM130, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B2EB99, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory131 , mainboard, DIMM131, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory140 , mainboard, DIMM140, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B296EB, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory141 , mainboard, DIMM141, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory150 , mainboard, DIMM150, Samsung,  65536 MB, Unknown,  2666 MHz, DDR4, 23B2EBAE, 1200 mV, 2 rank, 72 bit, Synchronous| Registered (Buffered), 06200329, M393A8G40MB2-CVF, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+Memory151 , mainboard, DIMM151, Unknown, Unknown, Unknown,  Unknown, Unknown, NO DIMM, Unknown, Unknown, Unknown, Unknown| Synchronous, Unknown, NO DIMM, Unknown, N/A, Unknown, Unknown, Unknown, Unknown, OK
+
+---------------------------------------------------------------------------------Card info----------------------------------------------------------------------------
+Pcie Card Info
+Slot | Vender Id  | Device Id  | Sub Vender Id   | Sub Device Id   | Bus Number   | Device Number  | Function Number  | Card Desc                                | Board Id   | PCB Version    | CPLD Version   | Sub Card Bom Id  | PartNum 
+1    | 0x8086     | 0x10fb     | 0x19e5          | 0xd111          | 0x3b         | 0x00           | 0x00             | 82599ES 10-Gigabit SFI/SFP+ Network Connection | N/A        | N/A            | N/A            | N/A              | N/A     
+3    | 0x10df     | 0xf400     | 0x10df          | 0xf402          | 0x5e         | 0x00           | 0x00             | LPe35002-M2 2-Port 32Gb Fibre Channel Adapter | N/A        | N/A            | N/A            | N/A              | N/A     
+4    | 0x8086     | 0x10fb     | 0x19e5          | 0xd111          | 0x86         | 0x00           | 0x00             | 82599ES 10-Gigabit SFI/SFP+ Network Connection | N/A        | N/A            | N/A            | N/A              | N/A     
+6    | 0x10df     | 0xf400     | 0x10df          | 0xf402          | 0xaf         | 0x00           | 0x00             | LPe35002-M2 2-Port 32Gb Fibre Channel Adapter | N/A        | N/A            | N/A            | N/A              | N/A     
+
+
+HDD Backplane Info
+Slot | BoardId    | Name       | Manufacturer                     | PCB Ver    | Logic Ver  | Type                                     | Part Num
+1    | 0x75       | BC11THBH   | Huawei                           | .B         | 1.12       | 25*2.5 SAS/SATA, Expander                | 03024MSH 
+
+
+RAID Card Info
+Slot | BoardId    | ProductName      | Manufacturer                     | PCB Ver    | Logic Ver  | Type                 | Mode                | Part Num
+1    | 0xa        | SR150-M          | Huawei                           | .D         | N/A        | SAS3408iMR           | RAID(0/1/10)        | 03024JNF
+
+
+Riser Card Info
+Slot | BoardId    | Name       | Manufacturer                     | Type                              | PartNum 
+1    | 0x95       | BC11PRCG   | Huawei                           | Riser(X16*1+X8*1)                | 03024PKS
+2    | 0x95       | BC11PRCG   | Huawei                           | Riser(X16*1+X8*1)                | 03024PKS
+
+
+Main board Info
+BoardId    | Name       | PCB Ver    | Bom Id     | Location        | Device Name     | Part Number     
+0x17       | Mainboard  | .B         | 0          | chassis         | Mainboard       | 02311XBS        
+
+
+
+---------------------------------------------------------------------------------Fan  info----------------------------------------------------------------------------
+Fan                      | Presence          | PWM      | Speed(RPM)         | Maximum rpm range  | Model             |  PartNum           |  DeviceName        |  Location        
+Fan Module1 Front/Rear   | present /present  | 35%      | 3960  /3960        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan1              |  chassis          
+Fan Module2 Front/Rear   | present /present  | 35%      | 3960  /3960        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan2              |  chassis          
+Fan Module3 Front/Rear   | present /present  | 35%      | 3960  /3960        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan3              |  chassis          
+Fan Module4 Front/Rear   | present /present  | 35%      | 3840  /3840        | 15000 /15000       | 02311VSF 8038+    |  02311VSF          |  Fan4              |  chassis          
+
+---------------------------------------------------------------------------------PSU  info----------------------------------------------------------------------------
+Slot   |  presence  |  Manufacturer     |  Type                              |  SN                                |  Version                    |  Rated Power   |  InputMode  |  PartNum           |  DeviceName        |  Vin     
+1      |  present   |  HUAWEI           |  PAC900S12-BE                      |  2102311TLF10LB017832              |  DC:129 PFC:129             |  900           |  AC        |  02311TLF          |  PSU1              |  228.00  
+2      |  present   |  HUAWEI           |  PAC900S12-BE                      |  2102311TLF10LB017836              |  DC:129 PFC:129             |  900           |  AC        |  02311TLF          |  PSU2              |  228.00  
+
+--------------------------------------------------------------------------------Storage info---------------------------------------------------------------------------
+Current SmBiosStatus = 3
+==============================
+Current BiosBootStage = 1
+==============================
+RAID Controller #0 Information
+==============================
+Controller Name                               : SAS3408
+Controller Type                               : SAS3408iMR
+Component Name                                : RAID Card1
+Support Out-of-Band Management                : Yes
+Controller Mode                               : RAID
+Controller Health                             : Normal
+Firmware Version                              : 5.060.01-2262
+NVDATA Version                                : 5.0600.03-0013
+Memory Size                                   : 0 MB
+Device Interface                              : SAS_12G
+SAS Address                                   : 5a82bcd2e1aa8000
+Minimum Strip Size Supported                  : 64 KB
+Maximum Strip Size Supported                  : 64 KB
+Controller Cache Is Pinned                    : No
+Maintain PD Fail History across Reboot        : Yes
+Copyback Enabled                              : Yes
+Copyback Enabled on SMART error               : Yes
+JBOD Enabled                                  : Yes
+DDR ECC Count                                 : 0
+
+PHY Status                                    : 
+	PHY #0 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #1 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #2 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #3 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #4 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #5 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #6 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+	PHY #7 :
+		Invalid Dword Count           : 0
+		Loss Dword Sync Count         : 0
+		PHY Reset Problem Count       : 0
+		Running Disparity Error Count : 0
+
+
+Logical Drive Information
+-------------------------
+Target ID                                : 0
+Name                                     : sys
+Type                                     : RAID1
+State                                    : Optimal
+Default Read Policy                      : No Read Ahead
+Default Write Policy                     : Write Through
+Default Cache Policy                     : Direct IO
+Current Read Policy                      : No Read Ahead
+Current Write Policy                     : Write Through
+Current Cache Policy                     : Direct IO
+Access Policy                            : Read Write
+Span depth                               : 1
+Number of drives per span                : 2
+Strip Size                               : 64 KB
+Total Size                               : 446.103 GB
+Disk Cache Policy                        : Disk's Default
+Init State                               : No Init
+Consistency Checking                     : No
+BGI Enabled                              : Yes
+Bootable                                 : Yes
+Used for Secondary Cache                 : No
+SSCD Caching Enable                      : N/A
+PD participating in LD (ID#)             : 0,1
+Dedicated Hot Spare PD (ID#)             : N/A
+Current in FGI                           : No
+FGI progress                             : 0
+
+
+
+
+
+Disk Array Information
+--------------------------
+Disk Array Information
+----------------------------------------------------------------------
+Array ID                                 : 0
+Used Space                               : 892.205 GB
+Free Space                               : 0 MB
+Logcial Drive(s) ID                      : 0
+Physical Drive(s) ID                     : 0,1
+----------------------------------------------------------------------
+
+Physical Drives Information
+--------------------------
+ID                                       : 0
+Device Name                              : Disk0
+Manufacturer                             : SAMSUNG
+Serial Number                            : S45PNA0N742472
+Model                                    : SAMSUNG MZ7LH480HAHQ-00005
+Firmware Version                         : HXT7904Q
+Health Status                            : Normal
+	Errors detected from RAID controller : :
+		Other Errors
+Firmware State                           : ONLINE
+Power State                              : Spun Up
+Media Type                               : SSD
+Interface Type                           : SATA
+Capable Speed                            : 6.0 Gbps
+Negotiated Speed                         : 12.0 Gbps
+Drive Temperature                        : 28
+Capacity                                 : 446.103 GB
+Hot Spare                                : None
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 99%
+Power-On Hours                           : 7559
+SAS Address(0)                           : 5048c16c48b6e000
+SAS Address(1)                           : 0000000000000000
+Location State                           : Off
+
+Media Error Count                        : 0
+Prefail Error Count                      : 0
+Other Error Count                        : 1
+
+
+
+ID                                       : 1
+Device Name                              : Disk1
+Manufacturer                             : SAMSUNG
+Serial Number                            : S45PNA0N742558
+Model                                    : SAMSUNG MZ7LH480HAHQ-00005
+Firmware Version                         : HXT7904Q
+Health Status                            : Minor
+	Errors detected from RAID controller : :
+		Other Errors
+Firmware State                           : ONLINE
+Power State                              : Spun Up
+Media Type                               : SSD
+Interface Type                           : SATA
+Capable Speed                            : 6.0 Gbps
+Negotiated Speed                         : 12.0 Gbps
+Drive Temperature                        : 28
+Capacity                                 : 446.103 GB
+Hot Spare                                : None
+Rebuild in Progress                      : No
+Patrol Read in Progress                  : No
+Remnant Media Wearout                    : 99%
+Power-On Hours                           : 7559
+SAS Address(0)                           : 5048c16c48b6e001
+SAS Address(1)                           : 0000000000000000
+Location State                           : Off
+
+Media Error Count                        : 0
+Prefail Error Count                      : 0
+Other Error Count                        : 1
+
+
+
+Pass Through Drives Information
+==============================
+None of physical drives is in position.

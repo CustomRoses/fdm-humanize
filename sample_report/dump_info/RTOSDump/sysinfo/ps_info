@@ -1,0 +1,134 @@
+F S UID        PID  PPID  C PRI  NI ADDR SZ WCHAN  STIME TTY          TIME CMD
+4 S root         1     0  0  80   0 -   917 do_wai Jan07 ?        00:00:01 init
+1 S root         2     0  0  80   0 -     0 kthrea Jan07 ?        00:00:10 [kthreadd]
+1 S root         3     2  0  80   0 -     0 smpboo Jan07 ?        12:31:44 [ksoftirqd/0]
+1 S root         5     2  0  60 -20 -     0 worker Jan07 ?        00:00:00 [kworker/0:0H]
+1 S root         7     2  0  80   0 -     0 rcu_gp Jan07 ?        1-03:27:30 [rcu_sched]
+1 S root         8     2  0  80   0 -     0 rcu_gp Jan07 ?        00:00:00 [rcu_bh]
+1 S root         9     2  0 -40   - -     0 smpboo Jan07 ?        00:00:00 [migration/0]
+5 S root        10     2  0 -40   - -     0 smpboo Jan07 ?        00:00:59 [watchdog/0]
+5 S root        11     2  0  80   0 -     0 devtmp Jan07 ?        00:00:00 [kdevtmpfs]
+1 S root        12     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [netns]
+1 S root        13     2  0  80   0 -     0 watchd Jan07 ?        00:00:45 [khungtaskd]
+1 S root       145     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [writeback]
+1 S root       147     2  0  85   5 -     0 ksm_sc Jan07 ?        00:00:00 [ksmd]
+1 S root       148     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [crypto]
+1 S root       149     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       151     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [kblockd]
+1 S root       256     2  0  80   0 -     0 kaudit Jan07 ?        00:00:00 [kauditd]
+1 S root       262     2  0  80   0 -     0 kswapd Jan07 ?        00:00:00 [kswapd0]
+1 S root       263     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [vmstat]
+1 S root       293     2  0  80   0 -     0 fsnoti Jan07 ?        00:00:00 [fsnotify_mark]
+1 S root       862     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       863     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       864     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       865     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       866     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       867     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       868     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       869     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       870     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       871     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       872     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       873     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       874     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       875     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       876     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       877     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       911     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       914     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       917     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       920     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       923     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       926     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       929     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       932     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root       936     2  0  80   0 -     0 kbox_c Jan07 ?        00:00:00 [kboxd]
+1 S root       944     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [deferwq]
+1 S root      1055     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1056     2  0  80   0 -     0 mmc_qu Jan07 ?        03:44:48 [mmcqd/0]
+1 S root      1057     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1058     2  0  80   0 -     0 mmc_qu Jan07 ?        00:00:00 [mmcqd/0boot0]
+1 S root      1059     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1060     2  0  80   0 -     0 mmc_qu Jan07 ?        00:00:00 [mmcqd/0boot1]
+1 S root      1077     2  0  80   0 -     0 kjourn Jan07 ?        00:00:00 [jbd2/mmcblk0p6-]
+1 S root      1078     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [ext4-rsv-conver]
+1 S root      1111     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [ipv6_addrconf]
+1 S root      1144     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [gmac_queue]
+1 S root      1191     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1196     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1201     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1206     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1211     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1216     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1299     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [dwc_otg]
+1 S root      1307     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [dwc_otg]
+0 S root      1313     1  0  80   0 -   498 hrtime Jan07 ?        00:19:08 ./uart_flowoff
+1 S root      1341     2  0  80   0 -     0 kjourn Jan07 ?        00:13:53 [jbd2/mmcblk0p7-]
+1 S root      1342     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [ext4-rsv-conver]
+1 S root      1370     1  0  80   0 -   936 hrtime Jan07 ?        00:05:58 /usr/sbin/crond
+1 S root      1379     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+1 S root      1428     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [rpciod]
+1 S root      1436     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [nfsiod]
+1 S root      1460     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [cifsiod]
+0 S root      1552     1  0  80   0 -   917 do_wai Jan07 ?        03:05:11 bash /opt/pme/script/task_monitor.sh
+0 S root      1553     1  0  80   0 -   917 do_wai Jan07 ?        06:33:50 bash /opt/pme/script/manual_oom_killer.sh
+1 S root      1604     2  0  60 -20 -     0 worker Jan07 ?        00:00:08 [kworker/0:1H]
+4 S root      1626     1  8  80   0 - 28808 poll_s Jan07 ?        28-01:52:42 ./dfm 26
+4 S root      1632     1  0  80   0 - 32760 poll_s Jan07 ?        05:58:29 ./bios
+4 S root      1633     1  2  80   0 - 125924 poll_s Jan07 ?       7-03:39:10 ./bmc_global
+4 S root      1634     1  2  80   0 - 38608 poll_s Jan07 ?        7-11:11:11 ./cooling
+4 S root      1635     1  2  80   0 - 50823 poll_s Jan07 ?        7-15:38:24 ./cpu_mem
+4 S discove+  1636     1  0  80   0 - 38118 poll_s Jan07 ?        17:37:17 ./discovery
+4 S root      1637     1  0  80   0 - 30479 poll_s Jan07 ?        06:03:59 ./dft
+4 S root      1638     1  0  80   0 - 67548 poll_s Jan07 ?        1-17:21:24 ./diagnose
+4 S root      1639     1  1  80   0 - 27209 poll_s Jan07 ?        6-01:02:08 ./file_manage_app
+4 S ipmi_us+  1640     1  4  80   0 - 84226 poll_s Jan07 ?        14-21:49:09 ./ipmi
+4 S kvm_user  1641     1  0  80   0 - 68384 poll_s Jan07 ?        1-15:07:17 ./kvm_vmm
+4 S root      1642     1  0  80   0 - 40205 poll_s Jan07 ?        11:47:43 ./maint_debug_mod
+4 S root      1643     1  1  80   0 - 57064 poll_s Jan07 ?        4-05:37:06 ./card_manage
+4 S root      1644     1  1  80   0 - 42318 poll_s Jan07 ?        5-09:04:16 ./power_mgnt
+4 S root      1645     1 12  80   0 - 107685 poll_s Jan07 ?       38-07:26:14 ./sensor_alarm
+4 S root      1646     1  0  80   0 - 32220 poll_s Jan07 ?        23:40:59 ./ui_manage
+4 S root      1647     1  0  80   0 - 32747 poll_s Jan07 ?        06:21:11 ./upgrade
+4 S root      1648     1  0  80   0 - 40951 poll_s Jan07 ?        1-20:06:40 ./user
+4 S root      1649     1  0  80   0 - 30889 poll_s Jan07 ?        1-13:24:03 ./lcd
+4 S root      1650     1  3  80   0 - 47004 poll_s Jan07 ?        11-23:00:48 ./storage_mgnt
+4 S redfish+  1651     1  0  80   0 - 51301 poll_s Jan07 ?        08:06:53 ./redfish
+4 S root      1652     1  0  80   0 - 46075 poll_s Jan07 ?        08:48:08 ./net_nat
+4 S root      1653     1  0  80   0 - 27510 poll_s Jan07 ?        05:57:12 ./pcie_switch
+4 S comm_us+  1654     1  0  80   0 - 40141 poll_s Jan07 ?        10:20:13 ./mctp
+4 S root      1655     1  0  80   0 - 31847 poll_s Jan07 ?        05:59:34 ./license_mgnt
+4 S root      1656     1  0  80   0 - 27863 poll_s Jan07 ?        1-04:30:56 ./agentless
+4 S comm_us+  1657     1  0  80   0 - 29889 poll_s Jan07 ?        07:23:57 ./ddns
+1 S root      1662     1  0  80   0 -   917 do_wai Jan07 ?        02:36:15 /bin/sh /opt/pme/sbin/xinetd_monitor.sh
+0 S root      1665     1  0  80   0 -   917 wait_w Jan07 ttyAMA0  00:00:00 /sbin/getty -L 115200 ttyAMA0 vt102
+4 S root      1667     1  0  80   0 -  7485 SyS_ep Jan07 ?        00:13:14 /usr/sbin/syslog-ng -f /etc/syslog-ng/syslog-ng.conf -p /var/run/syslogd.pid -F -R /opt/pme/pram/syslog-ng.persist
+4 S root      1668     1  0  80   0 -  7738 hrtime Jan07 ?        06:26:34 /opt/pme/apps/fsync
+4 S root      1669     1  0  80   0 -  1986 poll_s Jan07 ?        08:31:14 /usr/sbin/haveged -F -w 128
+1 S root      2279     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [kdmflush]
+1 S root      2280     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [bioset]
+5 S root      2491     1  0  80   0 -  6678 poll_s Jan07 ?        00:45:33 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S root      2586     1  0  80   0 -   910 poll_s Jan07 ?        00:00:00 /usr/sbin/xinetd -pidfile /var/run/xinetd.pid -stayalive
+5 S root      2624     1  0  80   0 -  6519 poll_s Jan07 ?        00:43:14 /opt/pme/web/bin/httpd -k start
+5 S apache    2625  2624  0  80   0 - 23452 inet_c Jan07 ?        00:00:00 /opt/pme/web/bin/httpd -k start
+1 S root      2659     2  0  60 -20 -     0 rescue Jan07 ?        00:00:00 [dwc_otg]
+1 S root     11378     2  0  80   0 -     0 worker Oct29 ?        00:00:35 [kworker/u2:0]
+1 S root     16230     2  0  80   0 -     0 worker Sep17 ?        00:01:50 [kworker/u2:1]
+5 S apache   16725  2624  0  80   0 - 23452 inet_c Jan11 ?        00:00:00 /opt/pme/web/bin/httpd -k start
+1 S root     17288     2  0  80   0 -     0 worker 12:42 ?        00:00:00 [kworker/0:1]
+4 S snmpd_u+ 17424     1  1  80   0 - 28661 poll_s Jan11 ?        5-19:29:51 /usr/sbin/snmpd -p /var/run/snmpd.pid -c /etc/snmp/snmpd.conf -g snmpd_user -u snmpd_user -I -icmp -f
+1 S root     17678     2  0  80   0 -     0 worker 12:47 ?        00:00:00 [kworker/0:0]
+5 S apache   17726  2491  0  80   0 - 23649 poll_s 12:47 ?        00:00:00 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache   17781  2491  0  80   0 - 23648 poll_s 12:48 ?        00:00:00 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+0 S root     18051  1552  0  80   0 -   884 hrtime 12:49 ?        00:00:00 sleep 60
+0 S root     18074  1553  0  80   0 -   884 hrtime 12:49 ?        00:00:00 sleep 30
+0 S root     18079  1642  1  80   0 -   917 do_wai 12:50 ?        00:00:00 /bin/sh /opt/pme/script/dump.sh /tmp/dump_info_tmp/dump_info
+0 S root     18096  1662  0  80   0 -   884 hrtime 12:50 ?        00:00:00 sleep 10
+5 S apache   18109  2491  1  80   0 - 23578 poll_s 12:50 ?        00:00:00 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+0 R root     18110 18079  0  80   0 -   749 -      12:50 ?        00:00:00 ps -elf
+1 S root     27391     2  0  80   0 -     0 worker 02:47 ?        00:01:44 [kworker/0:2]
+5 S apache   30361  2491  0  80   0 - 23649 poll_s 09:05 ?        00:00:01 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 R apache   30944  2491  0  80   0 - 24226 -      09:11 ?        00:00:00 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache   30999  2491  0  80   0 - 23649 poll_s 09:11 ?        00:00:00 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf
+5 S apache   31037  2491  0  80   0 - 23648 poll_s 09:12 ?        00:00:00 /opt/pme/web/bin/httpd -k start -DSSL -f /opt/pme/web/conf/httpd-with-ssl.conf

@@ -1,0 +1,1264 @@
+2022-11-15 17:39:54 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 17:39:54 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 17:39:54 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 17:46:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 17:46:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 17:46:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 17:52:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 17:52:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 17:52:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 17:58:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 17:58:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 17:58:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:05:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:05:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:05:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:11:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:11:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:11:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:17:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:17:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:17:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:23:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:23:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:23:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:30:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:30:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:30:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:36:36 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:36:36 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:36:36 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:42:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:42:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:42:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:49:11 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:49:11 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:49:11 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 18:55:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 18:55:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 18:55:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:01:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:01:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:01:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:08:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:08:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:08:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:14:25 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:14:25 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:14:25 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:20:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:20:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:20:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:27:01 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:27:01 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:27:01 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:33:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:33:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:33:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:39:36 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:39:36 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:39:36 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:45:56 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:45:56 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:45:56 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:52:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:52:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:52:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 19:58:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 19:58:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 19:58:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:04:52 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:04:52 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:04:52 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:11:11 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:11:11 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:11:11 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:17:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:17:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:17:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:23:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:23:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:23:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:30:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:30:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:30:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:36:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:36:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:36:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:42:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:42:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:42:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:48:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:48:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:48:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 20:55:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 20:55:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 20:55:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:01:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:01:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:01:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:07:51 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:07:51 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:07:51 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:14:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:14:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:14:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:20:29 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:20:29 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:20:29 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:26:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:26:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:26:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:33:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:33:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:33:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:39:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:39:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:39:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:45:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:45:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:45:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:52:00 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:52:00 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:52:00 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 21:58:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 21:58:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 21:58:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:04:37 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:04:37 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:04:37 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:10:54 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:10:54 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:10:54 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:17:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:17:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:17:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:23:33 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:23:33 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:23:33 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:29:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:29:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:29:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:36:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:36:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:36:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:42:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:42:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:42:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:48:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:48:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:48:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 22:55:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 22:55:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 22:55:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:01:21 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:01:21 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:01:21 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:07:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:07:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:07:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:13:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:13:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:13:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:20:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:20:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:20:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:26:32 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:26:32 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:26:32 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:32:52 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:32:52 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:32:52 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:39:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:39:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:39:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:45:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:45:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:45:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:51:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:51:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:51:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-15 23:58:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-15 23:58:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-15 23:58:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:04:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:04:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:04:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:10:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:10:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:10:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:16:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:16:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:16:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:23:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:23:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:23:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:29:38 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:29:38 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:29:38 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:35:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:35:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:35:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:42:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:42:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:42:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:48:33 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:48:33 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:48:33 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 00:54:54 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 00:54:54 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 00:54:54 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:01:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:01:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:01:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:07:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:07:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:07:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:13:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:13:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:13:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:20:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:20:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:20:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:26:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:26:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:26:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:32:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:32:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:32:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:39:06 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:39:06 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:39:06 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:45:25 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:45:25 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:45:25 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:51:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:51:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:51:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 01:58:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 01:58:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 01:58:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:04:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:04:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:04:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:10:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:10:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:10:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:17:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:17:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:17:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:23:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:23:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:23:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:29:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:29:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:29:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:35:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:35:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:35:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:42:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:42:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:42:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:48:35 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:48:35 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:48:35 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 02:54:54 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 02:54:54 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 02:54:54 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:01:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:01:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:01:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:07:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:07:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:07:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:13:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:13:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:13:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:20:06 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:20:06 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:20:06 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:26:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:26:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:26:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:32:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:32:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:32:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:39:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:39:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:39:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:45:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:45:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:45:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:51:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:51:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:51:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 03:57:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 03:57:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 03:57:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:04:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:04:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:04:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:10:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:10:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:10:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:16:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:16:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:16:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:23:16 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:23:16 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:23:16 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:29:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:29:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:29:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:35:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:35:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:35:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:42:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:42:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:42:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:48:29 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:48:29 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:48:29 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 04:54:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 04:54:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 04:54:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:01:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:01:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:01:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:07:21 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:07:21 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:07:21 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:13:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:13:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:13:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:19:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:19:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:19:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:26:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:26:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:26:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:32:35 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:32:35 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:32:35 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:38:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:38:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:38:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:45:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:45:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:45:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:51:35 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:51:35 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:51:35 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 05:57:56 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 05:57:56 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 05:57:56 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:04:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:04:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:04:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:10:32 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:10:32 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:10:32 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:16:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:16:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:16:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:23:11 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:23:11 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:23:11 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:29:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:29:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:29:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:35:50 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:35:50 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:35:50 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:42:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:42:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:42:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:48:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:48:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:48:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 06:54:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 06:54:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 06:54:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:01:06 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:01:06 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:01:06 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:07:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:07:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:07:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:13:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:13:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:13:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:20:01 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:20:01 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:20:01 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:26:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:26:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:26:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:32:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:32:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:32:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:38:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:38:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:38:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:45:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:45:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:45:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:51:38 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:51:38 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:51:38 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 07:57:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 07:57:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 07:57:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:04:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:04:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:04:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:10:38 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:10:38 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:10:38 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:16:56 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:16:56 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:16:56 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:23:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:23:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:23:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:29:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:29:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:29:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:35:51 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:35:51 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:35:51 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:42:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:42:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:42:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:48:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:48:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:48:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 08:54:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 08:54:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 08:54:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:01:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:01:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:01:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:07:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:07:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:07:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:13:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:13:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:13:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:20:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:20:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:20:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:26:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:26:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:26:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:32:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:32:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:32:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:39:01 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:39:01 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:39:01 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:45:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:45:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:45:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:51:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:51:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:51:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 09:57:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 09:57:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 09:57:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:04:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:04:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:04:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:10:37 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:10:37 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:10:37 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:16:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:16:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:16:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:23:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:23:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:23:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:29:33 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:29:33 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:29:33 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:35:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:35:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:35:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:42:14 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:42:14 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:42:14 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:48:32 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:48:32 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:48:32 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 10:54:50 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 10:54:50 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 10:54:50 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:01:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:01:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:01:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:07:26 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:07:26 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:07:26 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:13:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:13:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:13:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:20:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:20:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:20:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:26:26 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:26:26 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:26:26 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:32:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:32:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:32:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:39:06 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:39:06 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:39:06 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:45:25 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:45:25 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:45:25 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:51:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:51:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:51:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 11:58:01 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 11:58:01 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 11:58:01 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:04:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:04:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:04:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:10:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:10:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:10:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:16:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:16:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:16:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:23:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:23:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:23:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:29:33 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:29:33 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:29:33 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:35:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:35:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:35:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:42:14 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:42:14 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:42:14 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:48:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:48:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:48:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 12:54:50 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 12:54:50 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 12:54:50 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:01:08 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:01:08 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:01:08 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:07:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:07:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:07:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:13:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:13:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:13:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:20:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:20:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:20:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:26:26 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:26:26 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:26:26 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:32:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:32:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:32:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:39:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:39:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:39:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:45:25 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:45:25 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:45:25 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:51:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:51:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:51:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 13:58:01 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 13:58:01 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 13:58:01 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:04:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:04:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:04:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:10:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:10:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:10:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:17:00 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:17:00 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:17:00 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:23:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:23:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:23:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:29:38 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:29:38 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:29:38 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:35:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:35:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:35:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:42:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:42:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:42:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:48:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:48:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:48:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 14:54:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 14:54:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 14:54:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:01:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:01:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:01:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:07:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:07:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:07:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:13:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:13:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:13:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:20:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:20:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:20:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:26:32 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:26:32 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:26:32 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:32:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:32:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:32:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:39:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:39:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:39:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:45:27 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:45:27 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:45:27 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:51:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:51:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:51:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 15:58:02 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 15:58:02 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 15:58:02 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:04:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:04:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:04:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:10:39 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:10:39 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:10:39 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:16:56 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:16:56 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:16:56 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:23:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:23:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:23:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:29:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:29:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:29:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:35:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:35:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:35:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:42:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:42:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:42:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:48:26 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:48:26 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:48:26 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 16:54:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 16:54:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 16:54:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:01:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:01:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:01:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:07:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:07:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:07:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:13:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:13:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:13:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:19:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:19:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:19:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:26:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:26:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:26:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:32:35 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:32:35 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:32:35 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:38:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:38:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:38:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:45:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:45:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:45:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:51:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:51:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:51:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 17:57:45 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 17:57:45 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 17:57:45 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:04:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:04:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:04:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:10:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:10:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:10:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:16:37 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:16:37 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:16:37 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:22:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:22:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:22:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:29:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:29:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:29:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:35:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:35:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:35:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:41:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:41:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:41:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:48:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:48:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:48:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 18:54:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 18:54:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 18:54:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:00:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:00:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:00:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:07:00 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:07:00 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:07:00 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:13:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:13:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:13:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:19:36 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:19:36 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:19:36 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:25:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:25:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:25:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:32:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:32:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:32:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:38:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:38:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:38:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:44:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:44:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:44:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:51:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:51:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:51:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 19:57:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 19:57:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 19:57:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:03:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:03:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:03:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:10:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:10:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:10:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:16:27 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:16:27 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:16:27 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:22:45 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:22:45 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:22:45 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:29:02 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:29:02 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:29:02 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:35:21 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:35:21 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:35:21 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:41:38 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:41:38 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:41:38 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:47:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:47:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:47:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 20:54:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 20:54:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 20:54:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:00:33 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:00:33 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:00:33 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:06:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:06:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:06:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:13:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:13:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:13:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:19:29 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:19:29 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:19:29 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:25:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:25:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:25:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:32:06 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:32:06 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:32:06 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:38:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:38:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:38:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:44:43 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:44:43 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:44:43 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:51:02 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:51:02 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:51:02 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 21:57:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 21:57:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 21:57:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:03:36 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:03:36 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:03:36 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:09:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:09:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:09:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:16:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:16:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:16:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:22:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:22:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:22:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:28:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:28:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:28:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:35:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:35:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:35:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:41:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:41:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:41:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:47:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:47:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:47:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 22:54:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 22:54:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 22:54:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:00:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:00:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:00:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:06:39 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:06:39 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:06:39 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:12:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:12:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:12:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:19:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:19:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:19:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:25:35 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:25:35 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:25:35 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:31:54 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:31:54 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:31:54 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:38:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:38:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:38:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:44:32 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:44:32 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:44:32 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:50:50 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:50:50 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:50:50 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-16 23:57:08 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-16 23:57:08 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-16 23:57:08 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:03:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:03:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:03:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:09:47 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:09:47 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:09:47 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:16:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:16:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:16:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:22:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:22:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:22:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:28:39 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:28:39 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:28:39 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:34:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:34:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:34:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:41:16 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:41:16 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:41:16 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:47:33 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:47:33 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:47:33 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 00:53:52 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 00:53:52 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 00:53:52 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:00:12 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:00:12 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:00:12 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:06:29 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:06:29 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:06:29 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:12:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:12:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:12:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:19:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:19:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:19:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:25:28 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:25:28 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:25:28 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:31:46 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:31:46 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:31:46 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:38:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:38:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:38:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:44:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:44:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:44:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:50:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:50:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:50:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 01:56:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 01:56:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 01:56:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:03:20 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:03:20 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:03:20 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:09:40 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:09:40 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:09:40 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:15:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:15:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:15:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:22:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:22:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:22:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:28:36 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:28:36 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:28:36 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:34:54 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:34:54 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:34:54 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:41:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:41:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:41:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:47:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:47:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:47:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 02:53:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 02:53:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 02:53:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:00:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:00:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:00:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:06:27 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:06:27 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:06:27 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:12:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:12:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:12:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:19:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:19:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:19:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:25:24 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:25:24 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:25:24 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:31:42 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:31:42 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:31:42 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:37:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:37:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:37:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:44:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:44:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:44:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:50:39 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:50:39 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:50:39 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 03:56:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 03:56:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 03:56:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:03:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:03:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:03:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:09:37 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:09:37 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:09:37 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:15:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:15:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:15:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:22:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:22:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:22:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:28:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:28:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:28:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:34:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:34:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:34:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:41:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:41:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:41:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:47:27 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:47:27 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:47:27 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 04:53:45 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 04:53:45 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 04:53:45 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:00:01 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:00:01 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:00:01 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:06:19 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:06:19 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:06:19 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:12:38 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:12:38 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:12:38 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:18:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:18:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:18:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:25:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:25:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:25:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:31:29 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:31:29 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:31:29 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:37:50 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:37:50 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:37:50 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:44:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:44:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:44:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:50:27 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:50:27 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:50:27 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 05:56:45 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 05:56:45 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 05:56:45 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:03:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:03:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:03:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:09:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:09:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:09:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:15:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:15:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:15:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:21:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:21:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:21:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:28:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:28:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:28:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:34:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:34:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:34:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:40:52 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:40:52 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:40:52 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:47:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:47:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:47:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:53:30 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:53:30 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:53:30 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 06:59:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 06:59:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 06:59:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:06:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:06:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:06:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:12:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:12:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:12:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:18:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:18:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:18:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:25:03 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:25:03 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:25:03 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:31:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:31:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:31:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:37:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:37:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:37:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:44:00 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:44:00 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:44:00 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:50:21 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:50:21 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:50:21 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 07:56:37 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 07:56:37 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 07:56:37 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:02:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:02:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:02:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:07:20 redfish ERROR: redfish_http.c(5016): Get SessionId= from request info fail
+2022-11-17 08:07:54 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:07:54 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:09:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:09:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:09:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:10:14 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:10:14 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:10:38 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:10:38 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:10:40 redfish ERROR: redfish_http.c(3536): add_monitor_location_header failed, input param error
+2022-11-17 08:10:43 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:10:43 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:10:53 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:10:53 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:11:52 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:11:52 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:12:47 redfish ERROR: redfish_message.c(168): cann't find msg info for DiskStatErrInfo
+2022-11-17 08:12:47 redfish ERROR: redfish_provider_system_logservice.c(1721): get_message_id find_msg_info fail.
+2022-11-17 08:15:39 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:15:39 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:15:39 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:21:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:21:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:21:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:28:16 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:28:16 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:28:16 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:34:35 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:34:35 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:34:35 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:40:55 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:40:55 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:40:55 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:47:15 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:47:15 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:47:15 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:53:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:53:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:53:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 08:59:53 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 08:59:53 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 08:59:53 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:06:13 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:06:13 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:06:13 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:12:32 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:12:32 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:12:32 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:18:52 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:18:52 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:18:52 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:25:09 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:25:09 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:25:09 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:31:27 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:31:27 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:31:27 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:37:45 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:37:45 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:37:45 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:44:04 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:44:04 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:44:04 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:50:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:50:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:50:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 09:56:44 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 09:56:44 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 09:56:44 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:03:02 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:03:02 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:03:02 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:09:21 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:09:21 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:09:21 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:15:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:15:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:15:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:21:59 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:21:59 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:21:59 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:28:18 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:28:18 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:28:18 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:34:34 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:34:34 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:34:34 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:40:51 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:40:51 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:40:51 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:47:10 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:47:10 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:47:10 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:53:29 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:53:29 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:53:29 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 10:59:48 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 10:59:48 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 10:59:48 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:06:05 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:06:05 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:06:05 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:12:23 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:12:23 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:12:23 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:18:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:18:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:18:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:24:57 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:24:57 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:24:57 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:31:16 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:31:16 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:31:16 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:37:31 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:37:31 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:37:31 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:43:49 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:43:49 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:43:49 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:50:07 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:50:07 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:50:07 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 11:56:26 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 11:56:26 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 11:56:26 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:02:43 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:02:43 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:02:43 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:09:00 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:09:00 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:09:00 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:15:22 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:15:22 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:15:22 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:21:41 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:21:41 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:21:41 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:27:58 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:27:58 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:27:58 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:34:17 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:34:17 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:34:17 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:40:37 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:40:37 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:40:37 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:46:56 BMC ERROR: net_config.c(782): get_group_handle_by_channel:g_hash_table_lookup_extended failed, channelid is 0
+2022-11-17 12:46:56 BMC ERROR: net_config.c(816): eth_get_physics_group_obj_by_channel:get_group_handle_by_channel failed:obj_name is (null)
+2022-11-17 12:46:56 BMC ERROR: ipv6_lan_config.c(1633): ipmiget_ipv6_static_address:eth_get_physics_group_obj_by_channel failed, channelid is 0
+2022-11-17 12:49:16 StorageMgnt ERROR: raid_mgnt.c(4573): RAID Controller support storage management.
+2022-11-17 12:49:16 card_manage ERROR: card_manage_module.c(805): Dump repeater reg info failed! ,ret is -1
+2022-11-17 12:49:16 card_manage ERROR: card_manage_module.c(814): Dump SAS reg info failed! ,ret is -1
+2022-11-17 12:49:16 PcieSwitch ERROR: pcie_switch.c(2398): Dump pcie switch action info failed!
+2022-11-17 12:49:16 PcieSwitch ERROR: pcie_switch.c(2405): Dump pcie switch key regs info failed!
+2022-11-17 12:49:16 PcieSwitch ERROR: pcie_switch.c(2412): Dump pcie switch eeprom info failed!
+2022-11-17 12:49:16 PcieSwitch ERROR: pcie_switch.c(2419): Dump retimer regs info failed!
+2022-11-17 12:49:17 card_manage ERROR: card_manage_module.c(922): Dump pass through card info failed
+2022-11-17 12:49:17 card_manage ERROR: asset_locator.c(7435): nfc_chip_dump_info: Get AssetLocateBoard failed. ret=-2009
+2022-11-17 12:49:20 BMC ERROR: net_config_dump.c(483): dump_get_ip_info START.
+2022-11-17 12:49:20 BMC ERROR: net_config_dump.c(400): dump_print_ip_info: print_ipv4_backup_ipaddr_info fail, ret = 54
+2022-11-17 12:49:20 BMC ERROR: net_config_dump.c(520): dump_get_ip_info END.
+2022-11-17 12:49:21 BMC ERROR: net_lsw.c(1036):  Get LSWConfig fail
+2022-11-17 12:49:21 BMC ERROR: nand_flash.c(1175): get_nandflash_info: dump written data failed
+2022-11-17 12:49:21 redfish ERROR: redfish_provider.c(7129): get memory object failed,ret = -2009, device num = 255

@@ -1,0 +1,15 @@
+RAID Card Information:
+Component Name       : RAID Card1
+Product Name         : SR150-M
+Board Serial Number  : 024JNF6TL8006293
+
+PHY error statistics :
+PHY#,     Timestamp,               InvalidDwordCount,       LossDwordSynchCount,     PhyResetProblemCount,    RunningDisparityErrorCount
+0,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+1,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+2,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+3,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+4,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+5,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+6,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,
+7,        2022-01-12 10:17:02,     0,                       0,                       0,                       0,

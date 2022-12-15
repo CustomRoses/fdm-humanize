@@ -1,0 +1,56 @@
+Controller ID : 0
+Registration ID : 0
+NonPersistent
+Event Sequence Number : 0
+Message Timestamp : 1/12/2052 ; 9:33:34
+Local Timestamp : 2022-01-12 09:33:34
+Event code : 2
+Locale : Controller event
+Class : Information
+Description of the event : CRC failed for opcode 0x10c0100, total CRC failure count = 101, total recovery count = 0
+Argument Type Value: 1
+Argument Type : MR_EVT_ARGS_CDB_SENSE
+	Physical Device ID : 0x65
+	Enclosure Index : 0
+	Slot Number : 0
+	Length of CDB : 0
+	Length of request sense data : 0
+	CDB : 
+
+00  01  0C  01  00  00  00  00  00  00  00  00  00  00  00  00  
+	Sense Data :
+
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+
+
+Controller ID : 0
+Registration ID : 0
+NonPersistent
+Event Sequence Number : 1
+Message Timestamp : 10/16/2052 ; 13:46:9
+Local Timestamp : 2022-10-17 13:46:09
+Event code : 2
+Locale : Controller event
+Class : Information
+Description of the event : CRC failed for opcode 0x7010000, total CRC failure count = 1757, total recovery count = 1424
+Argument Type Value: 1
+Argument Type : MR_EVT_ARGS_CDB_SENSE
+	Physical Device ID : 0x6DD
+	Enclosure Index : 0
+	Slot Number : 0
+	Length of CDB : 144
+	Length of request sense data : 5
+	CDB : 
+
+00  00  01  07  00  00  00  00  00  00  00  00  00  00  00  00  
+	Sense Data :
+
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  00  
+
+

@@ -1,0 +1,363 @@
+2022-07-07 06:51:59 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 06:55:26 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 06:56:57 IPMI,N/A@HOST,sensor_alarm,Clear SEL records successfully
+2022-07-07 06:56:57 IPMI,N/A@HOST,Payload,Set chassis control to (power off the service system, and then power it on) successfully
+2022-07-07 06:57:14 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-07-07 06:57:18 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-07-07 06:57:31 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-07-07 06:57:31 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-07-07 06:57:34 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-07-07 06:57:36 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-07-07 06:58:06 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-07-07 06:59:02 IPMI,N/A@HOST,BMC,Set global enables to (RAW:0c) successfully
+2022-07-07 07:00:08 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 07:00:11 IPMI,N/A@HOST,Dft,Enable DFT command failed
+2022-07-07 07:00:27 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 07:10:51 IPMI,N/A@HOST,sensor_alarm,Set SysHealLed to (overstate off) successfully
+2022-07-07 07:10:51 IPMI,N/A@HOST,sensor_alarm,Set UIDLed to (overstate off) successfully
+2022-07-07 07:10:51 IPMI,N/A@HOST,sensor_alarm,Set FRU0 led (255) state successfully
+2022-07-07 07:11:00 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 07:11:00 IPMI,N/A@HOST,Dft,Enable DFT command failed
+2022-07-07 07:11:10 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 07:11:33 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 07:14:11 IPMI,N/A@HOST,sensor_alarm,Clear SEL records successfully
+2022-07-07 07:14:38 IPMI,N/A@HOST,Dft,Enable DFT command successfully
+2022-07-07 07:17:31 IPMI,N/A@HOST,sensor_alarm,Clear SEL records successfully
+2022-07-07 07:17:31 IPMI,N/A@HOST,sensor_alarm,Set SysHealLed to (overstate on) color (GREEN) successfully
+2022-07-07 07:17:31 IPMI,N/A@HOST,sensor_alarm,Set UIDLed to (overstate on) color (BLUE) successfully
+2022-07-07 07:17:31 IPMI,N/A@HOST,sensor_alarm,Set FRU0 led (255) state successfully
+2022-07-07 08:56:20 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-07-07 08:56:24 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-07-07 08:56:32 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-07-07 08:56:32 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-07-07 08:56:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-07-07 08:56:37 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-07-07 08:56:52 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-02 09:42:58 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-02 09:43:03 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-02 09:43:56 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-02 09:43:56 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-02 09:44:02 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-02 09:44:05 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-02 09:44:06 WEB,Administrator@192.168.2.101,User,Administrator(192.168.2.101) login successfully over the WebUI
+2022-12-02 09:45:19 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-02 09:50:32 WEB,Administrator@192.168.2.101,NetConfig,Set ethernet IPv4 enabled and IPv6 disabled successfully
+2022-12-02 09:50:32 WEB,Administrator@192.168.2.101,NetConfig,Set ethernet IPv4 address source to (static) successfully
+2022-12-02 09:50:32 WEB,Administrator@192.168.2.101,NetConfig,Set ethernet IPv4 address to (192.168.250.103) successfully
+2022-12-02 09:50:32 WEB,Administrator@192.168.2.101,NetConfig,Set ethernet IPv4 submask to (255.255.255.0) successfully
+2022-12-02 09:50:32 WEB,Administrator@192.168.2.101,NetConfig,Set ethernet IPv4 gateway to (192.168.250.1) successfully
+2022-12-02 09:50:34 WEB,Administrator@192.168.2.101,User,Administrator(192.168.2.101) logged out due to network configuration change
+2022-12-02 09:52:36 WEB,Administrator@192.168.250.102,User,Administrator(192.168.250.102) login successfully over the WebUI
+2022-12-02 09:53:03 WEB,Administrator@192.168.250.102,KVM,KVM key set successfully
+2022-12-02 09:53:03 WEB,Administrator@192.168.250.102,portal,Export kvm startup file to local successfully
+2022-12-02 09:53:04 KVM_VMM,Administrator@192.168.205.225,KVM,Connect KVM(private mode) successfully
+2022-12-02 09:58:00 WEB,Administrator@192.168.250.102,User,Administrator(192.168.250.102) logged out due to session timeout
+2022-12-02 10:01:17 KVM_VMM,Administrator@192.168.205.225,KVM,Disconnect KVM successfully
+2022-12-02 10:19:48 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 10:19:51 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 10:19:52 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 10:19:54 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 10:19:57 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 10:19:58 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 10:19:59 KVM_VMM,unknown@192.168.205.225,KVM,Connect KVM failed
+2022-12-02 11:20:36 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-02 11:20:58 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logged out due to user information change
+2022-12-02 11:20:58 WEB,Administrator@192.168.250.1,User,Modify user(Administrator|user2) password successfully
+2022-12-02 11:21:11 WEB,Administrator@192.168.250.1,portal,Administrator(192.168.250.1) login failed
+2022-12-02 11:21:20 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-02 11:21:57 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logged out due to session timeout
+2022-12-05 11:46:56 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-05 11:47:33 WEB,Administrator@192.168.250.1,BMC,Set BMC hostname to (rwoesx03) successfully
+2022-12-05 12:48:20 WEB,Administrator@192.168.250.1,BMC,Set time zone to (Europe/Vienna) successfully
+2022-12-05 12:48:20 WEB,Administrator@192.168.250.1,NTP,Set NTP enable status (enabled) successfully
+2022-12-05 12:48:20 WEB,Administrator@192.168.250.1,NTP,Set NTP preferred server (192.168.2.2) successfully
+2022-12-05 12:48:44 WEB,Administrator@192.168.250.1,portal,The language (ja) is disabled
+2022-12-05 12:48:45 WEB,Administrator@192.168.250.1,portal,The language (fr) is disabled
+2022-12-05 12:48:47 WEB,Administrator@192.168.250.1,portal,The language (ru) is disabled
+2022-12-05 12:57:56 WEB,Administrator@192.168.250.1,portal,Upload file(2288H_V5_2288C_V5_5288_V5-iBMC-V647.hpm) successfully
+2022-12-05 12:57:56 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade 2288H_V5_2288C_V5_5288_V5-iBMC-V647.hpm started
+2022-12-05 12:57:57 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade (Component Id:33) with (2288H_V5_2288C_V5_5288_V5-iBMC-V647.hpm) failed
+2022-12-05 13:05:39 WEB,Administrator@192.168.250.1,portal,Upload file(2288H_V5_2288C_V5_5288_V5-iBMC-V507.hpm) successfully
+2022-12-05 13:05:39 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade 2288H_V5_2288C_V5_5288_V5-iBMC-V507.hpm started
+2022-12-05 13:05:39 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade (Component Id:33) with (2288H_V5_2288C_V5_5288_V5-iBMC-V507.hpm) failed
+2022-12-05 13:09:44 WEB,Administrator@192.168.250.1,portal,Upload file(2288H_V5_2288C_V5_5288_V5-iBMC-V386.hpm) successfully
+2022-12-05 13:09:45 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade 2288H_V5_2288C_V5_5288_V5-iBMC-V386.hpm started
+2022-12-05 13:09:45 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade (Component Id:33) with (2288H_V5_2288C_V5_5288_V5-iBMC-V386.hpm) failed
+2022-12-05 13:14:38 WEB,Administrator@192.168.250.1,portal,Upload file(2288H_V5_5288_V5-iBMC-V325.hpm) successfully
+2022-12-05 13:14:38 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade 2288H_V5_5288_V5-iBMC-V325.hpm started
+2022-12-05 13:14:38 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade (Component Id:33) with (2288H_V5_5288_V5-iBMC-V325.hpm) failed
+2022-12-05 13:17:39 WEB,Administrator@192.168.250.1,BMC,Reset iBMC start
+2022-12-05 13:17:40 WEB,Administrator@192.168.250.1,BMC,Reset iBMC successfully
+2022-12-05 13:19:09 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-05 13:19:10 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logged out due to network configuration change
+2022-12-05 13:19:58 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-05 13:20:23 WEB,Administrator@192.168.250.1,portal,Upload file(2288H_V5_5288_V5-iBMC-V325.hpm) successfully
+2022-12-05 13:20:24 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade 2288H_V5_5288_V5-iBMC-V325.hpm started
+2022-12-05 13:20:24 WEB,Administrator@192.168.250.1,UPGRADE,Upgrade (Component Id:33) with (2288H_V5_5288_V5-iBMC-V325.hpm) failed
+2022-12-05 13:28:23 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logout successfully
+2022-12-05 17:41:08 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 17:41:21 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 17:41:26 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 17:42:19 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-05 17:42:19 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-05 17:42:25 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 17:42:28 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-05 17:43:38 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 20:14:42 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 20:14:54 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 20:14:59 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 20:15:52 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-05 20:15:52 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-05 20:15:58 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 20:16:01 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-05 20:17:12 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 20:30:39 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 20:30:52 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 20:30:56 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 20:31:49 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-05 20:31:49 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-05 20:31:55 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 20:31:58 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-05 20:33:14 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 21:39:26 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 21:39:39 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 21:39:43 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 21:40:36 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-05 21:40:36 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-05 21:40:42 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 21:40:45 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-05 21:41:59 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 23:55:51 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 23:56:09 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 23:56:14 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-05 23:57:07 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-05 23:57:07 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-05 23:57:13 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-05 23:57:16 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-05 23:58:52 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 08:21:27 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-06 08:22:55 WEB,Administrator@192.168.250.1,User,User (Administrator@192.168.250.1) is forced to log out because the same user log in from another device
+2022-12-06 08:22:55 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-06 08:24:33 WEB,Administrator@192.168.250.1,User,User (Administrator@192.168.250.1) is forced to log out because the same user log in from another device
+2022-12-06 08:24:33 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-06 08:24:48 WEB,Administrator@192.168.250.1,sensor_alarm,Successfully collected SELs
+2022-12-06 08:24:49 WEB,Administrator@192.168.250.1,portal,Export system event log to local successfully
+2022-12-06 08:25:58 WEB,Administrator@192.168.250.1,MaintDebug,Collect diagnose file start successfully
+2022-12-06 08:27:39 WEB,Administrator@192.168.250.1,MaintDebug,Collect diagnose file finished
+2022-12-06 08:27:42 WEB,Administrator@192.168.250.1,portal,Export dump file to local successfully
+2022-12-06 08:33:14 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logged out due to session timeout
+2022-12-06 08:35:37 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-06 08:35:43 WEB,Administrator@192.168.250.1,KVM,KVM key set successfully
+2022-12-06 08:35:43 WEB,Administrator@192.168.250.1,portal,Export kvm startup file to local successfully
+2022-12-06 08:35:44 KVM_VMM,Administrator@192.168.10.20,KVM,Connect KVM(private mode) successfully
+2022-12-06 08:36:36 KVM_VMM,Administrator@192.168.10.20,KVM,Set image resolution successfully
+2022-12-06 08:37:52 WEB,Administrator@192.168.250.1,Payload,Set FRU0 to forced system reset successfully
+2022-12-06 08:37:54 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 08:38:47 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 08:38:47 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 08:38:53 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 08:38:56 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 08:40:08 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 08:42:49 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logged out due to session timeout
+2022-12-06 08:45:02 KVM_VMM,Administrator@192.168.10.20,KVM,Disconnect KVM successfully
+2022-12-06 20:48:34 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 20:48:47 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 20:48:51 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 20:49:44 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 20:49:44 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 20:49:50 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 20:49:53 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 20:51:04 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:24:58 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:25:11 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:25:15 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:26:08 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:26:08 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:26:14 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:26:17 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:27:30 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:39:43 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:39:46 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:40:37 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:40:37 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:40:40 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:40:43 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:41:25 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:41:30 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:43:51 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:43:54 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:44:45 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:44:45 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:44:48 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:44:51 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:45:09 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:46:00 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:46:00 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:46:03 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:46:05 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:46:24 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:47:15 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:47:15 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:47:18 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:47:20 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:47:39 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:48:30 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:48:30 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:48:33 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:48:36 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:49:18 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:49:23 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:50:16 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:50:16 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:50:22 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:50:25 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:51:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:56:47 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:57:40 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:57:40 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:57:46 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:57:50 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 21:58:52 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:58:57 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 21:59:49 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-06 21:59:49 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-06 21:59:56 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 21:59:59 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-06 22:01:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-06 23:59:34 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 23:59:46 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-06 23:59:51 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 00:00:44 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-07 00:00:44 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-07 00:00:50 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-07 00:00:53 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-07 00:02:09 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-07 04:08:08 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 04:08:21 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 04:08:25 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 04:09:18 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-07 04:09:18 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-07 04:09:24 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-07 04:09:27 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-07 04:10:37 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-07 04:34:16 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 04:34:28 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 04:34:33 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-07 04:35:26 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-07 04:35:26 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-07 04:35:32 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-07 04:35:35 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-07 04:36:50 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-08 23:36:04 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:36:16 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:36:21 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:37:14 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-08 23:37:14 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-08 23:37:20 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-08 23:37:23 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-08 23:38:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-08 23:46:33 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:46:45 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:46:50 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:47:43 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-08 23:47:43 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-08 23:47:49 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-08 23:47:52 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-08 23:49:08 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-08 23:55:24 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:55:37 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:55:41 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-08 23:56:34 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-08 23:56:34 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-08 23:56:40 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-08 23:56:43 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-08 23:57:52 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-09 10:53:20 PANEL,N/A@127.0.0.1,Payload,Press power button successfully
+2022-12-09 10:59:31 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-09 10:59:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-09 10:59:40 PANEL,N/A@127.0.0.1,Payload,Press power button successfully
+2022-12-09 11:00:28 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-09 11:00:28 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-09 11:00:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-09 11:00:38 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-09 11:02:19 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 02:07:24 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 02:07:36 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 02:07:41 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 02:08:34 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 02:08:34 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 02:08:40 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 02:08:43 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 02:09:56 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 06:03:20 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:03:32 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:03:37 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:04:29 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 06:04:29 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 06:04:36 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 06:04:39 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 06:05:53 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 06:50:40 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:50:43 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:51:34 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 06:51:34 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 06:51:37 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 06:51:40 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 06:52:22 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:52:27 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 06:53:19 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 06:53:19 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 06:53:25 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 06:53:29 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 06:54:43 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 08:00:00 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 08:00:12 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 08:00:17 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 08:01:13 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 08:02:05 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 08:02:05 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 08:02:11 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 08:02:15 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 08:03:26 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 11:15:29 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 11:15:42 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 11:15:46 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 11:16:39 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 11:16:39 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 11:16:45 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 11:16:49 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 11:18:24 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 13:17:28 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 13:17:33 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-10 13:18:25 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-10 13:18:25 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-10 13:18:31 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-10 13:18:35 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-10 13:19:47 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-12 00:47:11 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 00:47:14 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 00:48:06 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-12 00:48:06 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-12 00:48:09 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-12 00:48:11 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-12 00:48:54 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 00:48:59 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 00:49:51 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-12 00:49:51 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-12 00:49:57 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-12 00:50:01 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-12 00:51:16 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-12 01:44:06 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 01:44:19 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 01:44:23 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS FRB2), action to (Hard Reset), timeout to (1200) seconds, stop running successfully
+2022-12-12 01:45:16 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (Power Cycle), timeout to (3600) seconds, keep running successfully
+2022-12-12 01:45:16 IPMI,N/A@HOST,Payload,Reset watchdog timer successfully
+2022-12-12 01:45:22 IPMI,N/A@HOST,Payload,Set watchdog timer use to (BIOS/POST), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-12 01:45:25 IPMI,N/A@HOST,CpuMem,Bios set chip bitwidth successfully
+2022-12-12 01:46:35 IPMI,N/A@HOST,Payload,Set watchdog timer use to (OS Load), action to (No action), timeout to (300) seconds, stop running successfully
+2022-12-12 08:21:13 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-12 08:26:52 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) logged out due to session timeout
+2022-12-12 08:32:12 WEB,Administrator@192.168.250.1,User,Administrator(192.168.250.1) login successfully over the WebUI
+2022-12-12 08:33:38 WEB,Administrator@192.168.250.1,sensor_alarm,Successfully collected SELs
+2022-12-12 08:33:40 WEB,Administrator@192.168.250.1,portal,Export system event log to local successfully
+2022-12-12 08:33:48 WEB,Administrator@192.168.250.1,MaintDebug,Collect diagnose file start successfully

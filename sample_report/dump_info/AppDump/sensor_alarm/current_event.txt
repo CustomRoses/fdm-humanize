@@ -1,0 +1,2 @@
+Event Num  | Event Time                     | Entity Name          | Sensor Name          | Alarm level  | Event Desc
+1          | 2022-10-03 Monday 16:22:30     | Disk                 | DISK1                | Minor        | The disk Disk1 state is abnormal (SN:S45PNA0N742558).

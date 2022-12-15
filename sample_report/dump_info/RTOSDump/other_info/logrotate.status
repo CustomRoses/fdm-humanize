@@ -1,0 +1,13 @@
+logrotate state -- version 2
+"/var/log/pme/LSI_RAID_Controller_Log" 2016-1-1
+"/opt/pme/web/logs/error_log" 2016-1-1
+"/var/log/pme/remote_log" 2016-1-1
+"/var/log/pme/dfm_debug_log" 2020-12-4
+"/var/log/pme/atop_log" 2016-1-1
+"/var/log/pme/security_log" 2020-11-26
+"/var/log/pme/linux_kernel_log" 2020-12-4
+"/var/log/pme/fdm_output" 2016-1-1
+"/var/log/pme/app_debug_log_all" 2020-12-4
+"/opt/pme/web/logs/access_log" 2016-1-1
+"/var/log/pme/agentless_driver_log" 2016-1-1
+"/var/log/pme/ps_black_box.log" 2020-12-4

@@ -1,0 +1,28 @@
+2021-12-30T09:56:34+00:00 2102311XBS6TLC000005 user: Administrator(192.168.2.3) login successfully over the WebUI
+2021-12-30T10:08:37+00:00 2102311XBS6TLC000005 user: Administrator(192.168.2.3) login successfully over the WebUI
+2021-12-30T10:32:58+00:00 2102311XBS6TLC000005 user: Administrator(192.168.2.3) login successfully over the WebUI
+2021-12-30T10:42:58+00:00 2102311XBS6TLC000005 user: Administrator(192.168.2.3) login successfully over the WebUI
+2021-12-30T11:03:06+00:00 2102311XBS6TLC000005 redfish: Âdministrator(192.168.2.3) login failed
+2021-12-30T11:03:16+00:00 2102311XBS6TLC000005 user: Administrator(192.168.2.3) login successfully over the WebUI
+2021-12-30T11:44:36+00:00 2102311XBS6TLC000005 user: Administrator(192.168.2.3) login successfully over the WebUI
+2022-01-10T09:18:29+00:00 2102311XBS6TLC000005 bios: Security,BIOS, Setup check password error,EvtCode:21700BE1
+2022-01-10T09:18:48+00:00 2102311XBS6TLC000005 bios: Security,BIOS,User(Administrator) Setup Utility login success,EvtCode:21700BE0
+2022-01-10T09:24:36+00:00 2102311XBS6TLC000005 bios: Security,BIOS,User(Administrator) Setup logout success,EvtCode:21700BE0
+2022-01-10T09:24:36+00:00 2102311XBS6TLC000005 bios: Security,BIOS,User(Administrator),Change Administrator password success,EvtCode:21700BE0
+2022-01-10T14:15:15+00:00 2102311XBS6TLC000005 user: Administrator(10.121.2.17) login successfully over the WebUI
+2022-01-10T14:15:21+00:00 2102311XBS6TLC000005 user: Administrator(10.121.2.17) login successfully over the WebUI
+2022-01-11T09:09:07+00:00 2102311XBS6TLC000005 user: Administrator(10.121.2.17) login successfully over the WebUI
+2022-01-11T09:12:47+00:00 2102311XBS6TLC000005 snmpd: (10.120.0.5) failed, wrong community
+2022-01-11T09:12:48+00:00 2102311XBS6TLC000005 snmpd: (10.120.0.5) failed, wrong community
+2022-01-11T09:12:49+00:00 2102311XBS6TLC000005 snmpd: (10.120.0.5) failed, wrong community
+2022-01-11T09:12:50+00:00 2102311XBS6TLC000005 snmpd: (10.120.0.5) failed, wrong community
+2022-01-11T09:12:51+00:00 2102311XBS6TLC000005 snmpd: (10.120.0.5) failed, wrong community
+2022-01-11T09:59:34+00:00 TTR3-MTB3 user: Administrator(10.121.2.17) login successfully over the WebUI
+2022-01-12T08:36:53+00:00 TTR3-MTB3 redfish: Administrator(10.121.2.31) login failed
+2022-01-12T08:37:00+00:00 TTR3-MTB3 user: Administrator(10.121.2.31) login successfully over the WebUI
+2022-01-12T08:48:56+00:00 TTR3-MTB3 bios: Security,BIOS,User(Administrator) BootManager login success,EvtCode:21700BE0
+2022-01-12T08:49:07+00:00 TTR3-MTB3 bios: Security,BIOS,User(Administrator) Setup logout success,EvtCode:21700BE0
+2022-10-07T12:18:16+00:00 TTR3-MTB3 user: Administrator(10.121.2.31) login successfully over the WebUI
+2022-10-11T06:30:31+00:00 TTR3-MTB3 user: Administrator(10.121.2.31) login successfully over the WebUI
+2022-11-17T08:07:43+00:00 TTR3-MTB3 user: Administrator(10.121.2.20) login successfully over the WebUI
+2022-11-17T12:47:44+00:00 TTR3-MTB3 user: Administrator(10.121.2.20) login successfully over the WebUI

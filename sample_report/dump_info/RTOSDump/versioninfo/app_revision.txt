@@ -1,0 +1,32 @@
+------------------ iBMC  INFO ------------------
+IPMC                CPU:           Hi1710
+IPMI            Version:           2.0
+CPLD            Version:           (U4269)3.03
+Active iBMC     Version:           (U4282)6.13
+Active iBMC       Built:           08:27:41 Mar  7 2021
+Backup iBMC     Version:           5.13
+SDK             Version:           4.31
+SDK               Built:           20:06:16 Jan  4 2021
+Active Uboot    Version:           5.2.03 (Jan 04 2021 - 20:08:23)
+Backup Uboot    Version:           5.2.03 (Jan 04 2021 - 20:08:23)
+----------------- Product INFO -----------------
+Product              ID:           0x0001
+Product            Name:           2288H V5
+BIOS            Version:           (U47)7.99
+-------------- Mother Board INFO ---------------
+2288H           BoardID:           0x0017
+2288H               PCB:           .B
+---------------- RAID Card INFO ----------------
+SR150-M         BoardID:           0x000a
+SR150-M             PCB:           .D
+--------------- Riser Card INFO ----------------
+BC11PRCG        BoardID:           0x0095
+BC11PRCG        BoardID:           0x0095
+-------------- HDD Backplane INFO --------------
+Disk BP1      BoardName:           BC11THBH
+Disk BP1        BoardID:           0x0075
+Disk BP1            PCB:           .B
+Disk BP1      CPLD Version:        (U3)1.12
+-------------------- PS INFO -------------------
+PS1            Version:           DC:129 PFC:129
+PS2            Version:           DC:129 PFC:129

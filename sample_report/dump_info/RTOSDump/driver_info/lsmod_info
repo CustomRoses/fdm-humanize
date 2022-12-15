@@ -1,0 +1,103 @@
+Module                  Size  Used by
+virtual_sto            20480  0 
+dwc_otg_sto           135168  1 virtual_sto
+iptable_filter         16384  1 
+ip_tables              20480  9 iptable_filter
+vfat                   20480  1 
+fat                    69632  1 vfat
+xt_tcpudp              16384  18 
+ip6table_filter        16384  1 
+ip6_tables             20480  5 ip6table_filter
+xt_limit               16384  12 
+x_tables               28672  6 ip6table_filter,ip_tables,xt_tcpudp,xt_limit,iptable_filter,ip6_tables
+dm_mod                110592  3 
+isofs                  28672  0 
+mctp_drv               24576  2 
+cifs                  380928  0 
+sha256_generic         20480  0 
+md4                    16384  0 
+hmac                   16384  0 
+ecb                    16384  0 
+des_generic            28672  0 
+nfsv3                  32768  0 
+nfs                   233472  1 nfsv3
+lockd                  73728  2 nfs,nfsv3
+nfs_acl                16384  1 nfsv3
+sunrpc                294912  4 nfs,lockd,nfsv3,nfs_acl
+oid_registry           16384  0 
+grace                  16384  1 lockd
+cachefiles             53248  1 
+fscache                73728  3 nfs,cifs,cachefiles
+ohci_hcd_1710          28672  0 
+ehci_hcd_1710          49152  0 
+c51_drv                40960  2 
+pramdisk               16384  1 
+rtos_snapshot          16384  0 
+bmc_veth_drv           32768  0 
+bmc_cdev_drv           16384  5 
+virtual_cd             20480  0 
+dwc_otg_cd            135168  1 virtual_cd
+virtual_mouse_keyboard    20480  1 
+dwc_otg_keyboard      139264  1 virtual_mouse_keyboard
+bmc_edma_drv           40960  2 bmc_veth_drv,bmc_cdev_drv
+cpld_drv               32768  0 
+spi_drv                24576  0 
+dfx_drv                24576  0 
+localbus_drv           16384  2 
+wdi_drv                16384  0 
+peci_drv               16384  1 
+uartconnect_drv        16384  2 
+uart_drv               16384  0 
+nand                   65536  0 
+nand_ecc               16384  1 nand
+nand_ids               12288  1 nand
+rtc_drv                16384  0 
+adc_drv                16384  2 
+pwm_drv                20480  2 
+dboot_drv              16384  1 
+sec_drv                24576  0 
+sfc_drv                40960  0 
+sram_drv               16384  0 
+rsvmem_drv             16384  0 
+sol_drv                20480  1 
+bt_drv                 20480  1 
+p80_drv                16384  1 
+ipmb_drv               24576  1 
+i2c_drv                90112  8 
+dmac_drv               16384  0 
+gmac_drv               81920  0 
+mdio_drv               16384  2 gmac_drv
+mdio_bitbang           16384  0 
+8021q                  28672  0 
+garp                   16384  1 8021q
+stp                    16384  1 garp
+llc                    16384  2 stp,garp
+ipv6                  344064  74 
+wdt_drv                16384  1 
+gpio_drv               28672  10 i2c_drv,sfc_drv,cpld_drv,wdt_drv
+sys_info_drv           24576  47 i2c_drv,sol_drv,gmac_drv,rsvmem_drv,bmc_veth_drv,bmc_cdev_drv,gpio_drv,bmc_edma_drv
+sdio_drv               36864  1 
+comm_drv               16384  111 pwm_drv,dfx_drv,i2c_drv,p80_drv,ipmb_drv,c51_drv,sec_drv,sfc_drv,dboot_drv,sol_drv,spi_drv,sram_drv,bt_drv,rsvmem_drv,uartconnect_drv,sdio_drv,virtual_cd,virtual_sto,adc_drv,cpld_drv,dmac_drv,bmc_cdev_drv,peci_drv,mdio_drv,mctp_drv,wdi_drv,wdt_drv,localbus_drv,sys_info_drv,virtual_mouse_keyboard,gpio_drv
+log_drv                16384  37 pwm_drv,dfx_drv,i2c_drv,p80_drv,ipmb_drv,c51_drv,sec_drv,sfc_drv,rtc_drv,dboot_drv,uart_drv,sol_drv,spi_drv,gmac_drv,sram_drv,bt_drv,rsvmem_drv,bmc_veth_drv,uartconnect_drv,comm_drv,sdio_drv,virtual_cd,virtual_sto,adc_drv,cpld_drv,dmac_drv,bmc_cdev_drv,peci_drv,mdio_drv,mctp_drv,wdi_drv,wdt_drv,localbus_drv,sys_info_drv,virtual_mouse_keyboard,gpio_drv,bmc_edma_drv
+ext4                  577536  2 
+ext2                   69632  1 
+mbcache                16384  2 ext2,ext4
+jbd2                  131072  1 ext4
+crc16                  16384  1 ext4
+mmc_block              40960  4 
+mmc_core              135168  2 mmc_block,sdio_drv
+crc32c_generic         16384  2 
+uart_suspend           16384  0 
+cramfs                 49152  0 
+jffs2                 135168  0 
+cfi_cmdset_0002        45056  0 
+cfi_cmdset_0001        40960  0 
+cfi_probe              16384  0 
+cfi_util               16384  3 cfi_probe,cfi_cmdset_0001,cfi_cmdset_0002
+chipreg                16384  1 cfi_probe
+gen_probe              16384  1 cfi_probe
+cmdlinepart            16384  0 
+mtdblock               16384  0 
+mtd_blkdevs            16384  1 mtdblock
+mtd                    57344  15 nand,mtdblock,jffs2,cmdlinepart,cfi_cmdset_0001,cfi_cmdset_0002,sfc_drv,mtd_blkdevs
+ksecurec               16384  40 pwm_drv,dfx_drv,i2c_drv,p80_drv,ipmb_drv,c51_drv,sec_drv,sfc_drv,ohci_hcd_1710,dboot_drv,log_drv,sol_drv,spi_drv,gmac_drv,sram_drv,bt_drv,rsvmem_drv,bmc_veth_drv,uartconnect_drv,comm_drv,sdio_drv,virtual_cd,virtual_sto,adc_drv,cpld_drv,dmac_drv,bmc_cdev_drv,dwc_otg_keyboard,peci_drv,mdio_drv,mctp_drv,ehci_hcd_1710,dwc_otg_cd,wdt_drv,localbus_drv,sys_info_drv,virtual_mouse_keyboard,gpio_drv,bmc_edma_drv,dwc_otg_sto

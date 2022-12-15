@@ -1,0 +1,29 @@
+Pcie Card Info
+Slot | Vender Id  | Device Id  | Sub Vender Id   | Sub Device Id   | Bus Number   | Device Number  | Function Number  | Card Desc                                | Board Id   | PCB Version    | CPLD Version   | Sub Card Bom Id  | PartNum 
+1    | 0x8086     | 0x10fb     | 0x19e5          | 0xd111          | 0x3b         | 0x00           | 0x00             | 82599ES 10-Gigabit SFI/SFP+ Network Connection | N/A        | N/A            | N/A            | N/A              | N/A     
+3    | 0x10df     | 0xf400     | 0x10df          | 0xf402          | 0x5e         | 0x00           | 0x00             | LPe35002-M2 2-Port 32Gb Fibre Channel Adapter | N/A        | N/A            | N/A            | N/A              | N/A     
+4    | 0x8086     | 0x10fb     | 0x19e5          | 0xd111          | 0x86         | 0x00           | 0x00             | 82599ES 10-Gigabit SFI/SFP+ Network Connection | N/A        | N/A            | N/A            | N/A              | N/A     
+6    | 0x10df     | 0xf400     | 0x10df          | 0xf402          | 0xaf         | 0x00           | 0x00             | LPe35002-M2 2-Port 32Gb Fibre Channel Adapter | N/A        | N/A            | N/A            | N/A              | N/A     
+
+
+HDD Backplane Info
+Slot | BoardId    | Name       | Manufacturer                     | PCB Ver    | Logic Ver  | Type                                     | Part Num
+1    | 0x75       | BC11THBH   | Huawei                           | .B         | 1.12       | 25*2.5 SAS/SATA, Expander                | 03024MSH 
+
+
+RAID Card Info
+Slot | BoardId    | ProductName      | Manufacturer                     | PCB Ver    | Logic Ver  | Type                 | Mode                | Part Num
+1    | 0xa        | SR150-M          | Huawei                           | .D         | N/A        | SAS3408iMR           | RAID(0/1/10)        | 03024JNF
+
+
+Riser Card Info
+Slot | BoardId    | Name       | Manufacturer                     | Type                              | PartNum 
+1    | 0x95       | BC11PRCG   | Huawei                           | Riser(X16*1+X8*1)                | 03024PKS
+2    | 0x95       | BC11PRCG   | Huawei                           | Riser(X16*1+X8*1)                | 03024PKS
+
+
+Main board Info
+BoardId    | Name       | PCB Ver    | Bom Id     | Location        | Device Name     | Part Number     
+0x17       | Mainboard  | .B         | 0          | chassis         | Mainboard       | 02311XBS        
+
+

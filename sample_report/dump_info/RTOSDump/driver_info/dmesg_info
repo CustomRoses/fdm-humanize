@@ -1,0 +1,207 @@
+704,2022-01-12 10:13:45,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+705,2022-01-12 10:13:46,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+706,2022-01-12 10:13:46,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+707,2022-01-12 10:13:46,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+708,2022-01-12 10:13:46,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+709,2022-01-12 10:13:46,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+710,2022-01-12 10:13:47,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+711,2022-01-12 10:13:47,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+712,2022-01-12 10:13:47,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+713,2022-01-12 10:13:47,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+714,2022-01-12 10:13:47,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+715,2022-01-12 10:13:47,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+Soft disconnect from host.
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Initializing DCFG.DevSpd to 0x0
+===dctl = 2==
+===intsts = 32==
+Soft connect from host.
+===dctl = 0==
+716,2022-01-12 10:14:23,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+717,2022-01-12 10:14:23,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+718,2022-01-12 10:14:23,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+719,2022-01-12 10:14:23,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+720,2022-01-12 10:14:23,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+721,2022-01-12 10:14:23,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+722,2022-01-12 10:14:23,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+723,2022-01-12 10:14:24,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+724,2022-01-12 10:14:24,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+725,2022-01-12 10:14:24,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+726,2022-01-12 10:14:24,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+727,2022-01-12 10:14:25,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+728,2022-01-12 10:14:25,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+729,2022-01-12 10:14:26,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+730,2022-01-12 10:14:26,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+731,2022-01-12 10:14:26,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+732,2022-01-12 10:14:26,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+733,2022-01-12 10:14:26,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+734,2022-01-12 10:14:26,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+735,2022-01-12 10:14:26,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+736,2022-01-12 10:14:26,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+737,2022-01-12 10:14:27,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+738,2022-01-12 10:14:27,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+739,2022-01-12 10:14:27,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+740,2022-01-12 10:14:27,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+741,2022-01-12 10:14:27,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+742,2022-01-12 10:14:27,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+743,2022-01-12 10:14:28,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+744,2022-01-12 10:14:28,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+HID USB RESET
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 00.05 v0001 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP a1.03 v0000 i0000 l0001
+MK_SETUP 21.0b v0000 i0000 l0000
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 21.09 v0200 i0000 l0001
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP 21.0a v0000 i0001 l0000
+UPAN_SETUP 80.06 v0100 i0000 l0008
+UPAN_SETUP 00.05 v0002 i0000 l0000
+UPAN_SETUP 80.06 v0100 i0000 l0012
+UPAN_SETUP 80.06 v0200 i0000 l0009
+UPAN_SETUP 80.06 v0200 i0000 l0020
+UPAN_SETUP 00.09 v0001 i0000 l0000
+dwc_otg_ep_activate() EP1-IN
+== 0===
+===DEPCTL=000a8200====
+dwc_otg_ep_activate() EP1-OUT
+== 0===
+===DEPCTL=000a8200====
+CD_SETUP 80.06 v0100 i0000 l0008
+CD_SETUP 00.05 v0003 i0000 l0000
+CD_SETUP 80.06 v0100 i0000 l0012
+CD_SETUP 80.06 v0200 i0000 l0009
+CD_SETUP 80.06 v0200 i0000 l0020
+CD_SETUP 00.09 v0001 i0000 l0000
+dwc_otg_ep_activate() EP1-IN
+== 0===
+===DEPCTL=000a8200====
+dwc_otg_ep_activate() EP1-OUT
+== 0===
+===DEPCTL=c00a8200====
+UPAN_SETUP a1.fe v0000 i0000 l0001
+CD_SETUP a1.fe v0000 i0000 l0001
+745,2022-01-12 10:15:02,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+746,2022-01-12 10:15:02,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+747,2022-01-12 10:15:02,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+748,2022-01-12 10:15:02,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+749,2022-01-12 10:15:03,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+750,2022-01-12 10:15:03,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+751,2022-01-12 10:15:03,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+752,2022-01-12 10:15:03,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+753,2022-01-12 10:15:03,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+754,2022-01-12 10:15:03,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+755,2022-01-12 10:15:03,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+756,2022-01-12 10:15:03,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+757,2022-01-12 10:15:03,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+758,2022-01-12 10:15:04,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+759,2022-01-12 10:15:04,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+760,2022-01-12 10:15:04,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+761,2022-01-12 10:15:04,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+762,2022-01-12 10:15:04,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+763,2022-01-12 10:15:05,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+764,2022-01-12 10:15:05,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+765,2022-01-12 10:15:05,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+766,2022-01-12 10:15:05,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+767,2022-01-12 10:15:05,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+768,2022-01-12 10:15:05,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+769,2022-01-12 10:15:05,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+Soft disconnect from host.
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Initializing DCFG.DevSpd to 0x0
+Soft disconnect from host.
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Initializing DCFG.DevSpd to 0x0
+HID USB RESET
+MK_SETUP 00.05 v0001 i0000 l0000
+MK_SETUP 80.06 v0100 i0000 l0008
+MK_SETUP 80.06 v0100 i0000 l0012
+MK_SETUP 80.06 v0300 i0000 l0002
+MK_SETUP 80.06 v0300 i0000 l0004
+MK_SETUP 80.06 v0301 i0409 l0002
+MK_SETUP 80.06 v0302 i0409 l0002
+MK_SETUP 80.06 v0302 i0409 l0032
+MK_SETUP 80.06 v0200 i0000 l0009
+MK_SETUP 80.06 v0200 i0000 l003b
+MK_SETUP 00.09 v0001 i0000 l0000
+MK_SETUP 81.06 v2200 i0000 l0041
+MK_SETUP 21.0a v0000 i0000 l0000
+MK_SETUP 81.06 v2200 i0001 l003c
+MK_SETUP 21.09 v0200 i0000 l0001
+CD_SETUP 00.05 v0002 i0000 l0000
+CD_SETUP 80.06 v0100 i0000 l0012
+CD_SETUP 80.06 v0300 i0000 l0002
+CD_SETUP 80.06 v0300 i0000 l0004
+CD_SETUP 80.06 v0301 i0409 l0002
+CD_SETUP 80.06 v0302 i0409 l0002
+CD_SETUP 80.06 v0302 i0409 l0022
+CD_SETUP 80.06 v0200 i0000 l0009
+CD_SETUP 80.06 v0200 i0000 l0020
+CD_SETUP 80.00 v0000 i0000 l0002
+CD_SETUP 00.09 v0001 i0000 l0000
+dwc_otg_ep_activate() EP1-IN
+== 0===
+===DEPCTL=000a8200====
+dwc_otg_ep_activate() EP1-OUT
+== 0===
+===DEPCTL=c00a8200====
+CD_SETUP a1.fe v0000 i0000 l0001
+770,2022-01-12 10:16:11,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+771,2022-01-12 10:16:14,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+MK_SETUP 21.09 v0200 i0000 l0001
+EP0 IN disabled
+EP2 IN disabled
+EP0 IN disabled
+EP2 IN disabled
+772,2022-01-12 17:18:31,22895,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 3
+Soft disconnect from host.
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Initializing DCFG.DevSpd to 0x0
+Soft disconnect from host.
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Initializing DCFG.DevSpd to 0x0
+Soft disconnect from host.
+==speed = 0 phy_type=1==
+Using Buffer DMA mode
+Periodic Transfer Interrupt Enhancement - disabled
+Multiprocessor Interrupt Enhancement - disabled
+OTG VER PARAM: 1, OTG VER FLAG: 1
+Initializing DCFG.DevSpd to 0x0
+Initializing DCFG.DevSpd to 0x0
+773,2022-01-14 21:18:46,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+774,2022-01-14 21:18:46,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+775,2022-01-14 21:48:45,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+776,2022-01-14 22:18:47,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+777,2022-01-14 22:48:46,2256,i2c_send_msg,2120,i2c 4 go idle timeout(addr = 0x2)
+778,2022-01-14 23:48:46,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+779,2022-10-29 02:54:53,1990,i2c_read_msg,2359,i2c 4 read data time out! slave addr=0xa0 len=1, offset=0
+780,2022-11-12 05:49:39,22895,i2c_read_msg,2347,i2c 4 read data failed for tx_abort error (addr = 0x2),reason(0x9)

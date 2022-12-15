@@ -1,0 +1,1 @@
+"""ifconfig eth2 hw ether 48:dc:2d:10:5c:7e""ifconfig eth2 10.206.0.201 netmask 255.255.255.0""route add default gw 10.206.0.1"

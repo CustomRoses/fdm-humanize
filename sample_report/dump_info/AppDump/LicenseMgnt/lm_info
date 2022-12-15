@@ -1,0 +1,24 @@
+
+----- ALM Info -----
+ALM Version : AdaptiveLMV100R005C10SPC026
+
+----- Device Info -----
+Product ESN : 620FADC4382BABDB09837A3622356974C0E2DE0B
+
+----- License Info -----
+License Status : Undefined
+License Revoke Ticket : 
+
+----- License FeatureKey Info -----
+Smart Provisioning, Data Acquisition :
+    CurrentState : Undefined
+    ControlValue : 0
+    RemoteControlValue : 0
+
+----- License Alarm Info -----
+RemainGraceDays : 0
+RemainCommissioningDays : 0
+ProductESNInvalid : 0
+FileError : 255
+ProductESNNotMatch : 255
+ProductVerNotMatch : 255

@@ -1,0 +1,555 @@
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: HID USB RESET
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 00.05 v0001 i0000 l0000
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l003b
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP a1.03 v0000 i0000 l0001
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0b v0000 i0000 l0000
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0000 l0000
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0001 l003c
+2022-01-12T08:48:13+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0001 l0000
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: UPAN_SETUP 00.05 v0002 i0000 l0000
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: UPAN_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T08:48:14+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T08:48:15+00:00 TTR3-MTB3 kernel: ===dctl = 2==
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: ===dctl = 0==
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP 00.05 v0003 i0000 l0000
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T08:48:16+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T08:48:23+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:23+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:24+00:00 TTR3-MTB3 kernel: UPAN_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 586,2022-01-12 08:48:29,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 587,2022-01-12 08:48:29,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 588,2022-01-12 08:48:29,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 589,2022-01-12 08:48:29,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 590,2022-01-12 08:48:29,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 591,2022-01-12 08:48:29,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 592,2022-01-12 08:48:29,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T08:48:29+00:00 TTR3-MTB3 kernel: 593,2022-01-12 08:48:29,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 594,2022-01-12 08:48:30,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 595,2022-01-12 08:48:30,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 596,2022-01-12 08:48:30,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 597,2022-01-12 08:48:30,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 598,2022-01-12 08:48:30,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 599,2022-01-12 08:48:30,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 600,2022-01-12 08:48:30,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 601,2022-01-12 08:48:30,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 602,2022-01-12 08:48:30,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 603,2022-01-12 08:48:30,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 604,2022-01-12 08:48:30,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 605,2022-01-12 08:48:30,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T08:48:30+00:00 TTR3-MTB3 kernel: 606,2022-01-12 08:48:30,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T08:48:31+00:00 TTR3-MTB3 kernel: 607,2022-01-12 08:48:30,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T08:48:31+00:00 TTR3-MTB3 kernel: 608,2022-01-12 08:48:31,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:31+00:00 TTR3-MTB3 kernel: 609,2022-01-12 08:48:31,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:31+00:00 TTR3-MTB3 kernel: 610,2022-01-12 08:48:31,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T08:48:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T08:48:46+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:47+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:47+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:48+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:52+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:53+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:56+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:48:59+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:49:06+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:49:07+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:49:08+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: HID USB RESET
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 00.05 v0001 i0000 l0000
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0300 i0000 l0002
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0300 i0000 l0004
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0301 i0409 l0002
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0302 i0409 l0002
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0302 i0409 l0032
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l003b
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0000 l0041
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0000 l0000
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0001 l003c
+2022-01-12T08:53:09+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 00.05 v0002 i0000 l0000
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0300 i0000 l0002
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0300 i0000 l0004
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0301 i0409 l0002
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0302 i0409 l0002
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0302 i0409 l0022
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 80.00 v0000 i0000 l0002
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: ===DEPCTL=c00a8200====
+2022-01-12T08:53:10+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T09:14:00+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:14:00+00:00 TTR3-MTB3 kernel: EP0 IN disabled
+2022-01-12T09:14:00+00:00 TTR3-MTB3 kernel: EP2 IN disabled
+2022-01-12T09:15:57+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:15:57+00:00 TTR3-MTB3 kernel: EP0 IN disabled
+2022-01-12T09:15:57+00:00 TTR3-MTB3 kernel: EP2 IN disabled
+2022-01-12T09:15:57+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:16:05+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:30:15+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:30:38+00:00 TTR3-MTB3 kernel: 611,2022-01-12 09:30:38,14040,i2c_send_msg,2132,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+2022-01-12T09:30:44+00:00 TTR3-MTB3 kernel: 612,2022-01-12 09:30:44,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:44+00:00 TTR3-MTB3 kernel: 613,2022-01-12 09:30:44,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:44+00:00 TTR3-MTB3 kernel: 614,2022-01-12 09:30:44,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:45+00:00 TTR3-MTB3 kernel: 615,2022-01-12 09:30:45,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:30:45+00:00 TTR3-MTB3 kernel: 616,2022-01-12 09:30:45,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:30:45+00:00 TTR3-MTB3 kernel: 617,2022-01-12 09:30:45,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:30:45+00:00 TTR3-MTB3 kernel: 618,2022-01-12 09:30:45,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:30:45+00:00 TTR3-MTB3 kernel: 619,2022-01-12 09:30:45,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 620,2022-01-12 09:30:46,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 621,2022-01-12 09:30:46,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 622,2022-01-12 09:30:46,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 623,2022-01-12 09:30:46,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 624,2022-01-12 09:30:46,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 625,2022-01-12 09:30:46,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:30:46+00:00 TTR3-MTB3 kernel: 626,2022-01-12 09:30:46,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 627,2022-01-12 09:30:47,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 628,2022-01-12 09:30:47,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 629,2022-01-12 09:30:47,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 630,2022-01-12 09:30:47,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 631,2022-01-12 09:30:47,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 632,2022-01-12 09:30:47,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:30:47+00:00 TTR3-MTB3 kernel: 633,2022-01-12 09:30:47,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T09:31:02+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T09:31:03+00:00 TTR3-MTB3 kernel: ===dctl = 2==
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: ===dctl = 0==
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 634,2022-01-12 09:31:32,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 635,2022-01-12 09:31:32,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 636,2022-01-12 09:31:32,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 637,2022-01-12 09:31:32,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 638,2022-01-12 09:31:32,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 639,2022-01-12 09:31:32,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:31:32+00:00 TTR3-MTB3 kernel: 640,2022-01-12 09:31:32,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:31:33+00:00 TTR3-MTB3 kernel: 641,2022-01-12 09:31:33,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:31:33+00:00 TTR3-MTB3 kernel: 642,2022-01-12 09:31:33,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:33+00:00 TTR3-MTB3 kernel: 643,2022-01-12 09:31:33,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:33+00:00 TTR3-MTB3 kernel: 644,2022-01-12 09:31:33,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 645,2022-01-12 09:31:35,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 646,2022-01-12 09:31:35,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 647,2022-01-12 09:31:35,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 648,2022-01-12 09:31:35,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 649,2022-01-12 09:31:35,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 650,2022-01-12 09:31:35,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:31:35+00:00 TTR3-MTB3 kernel: 651,2022-01-12 09:31:35,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 652,2022-01-12 09:31:36,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 653,2022-01-12 09:31:36,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 654,2022-01-12 09:31:36,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 655,2022-01-12 09:31:36,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 656,2022-01-12 09:31:36,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 657,2022-01-12 09:31:36,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:36+00:00 TTR3-MTB3 kernel: 658,2022-01-12 09:31:36,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:37+00:00 TTR3-MTB3 kernel: 659,2022-01-12 09:31:37,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:37+00:00 TTR3-MTB3 kernel: 660,2022-01-12 09:31:37,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:31:37+00:00 TTR3-MTB3 kernel: 661,2022-01-12 09:31:37,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:37+00:00 TTR3-MTB3 kernel: 662,2022-01-12 09:31:37,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: HID USB RESET
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 00.05 v0001 i0000 l0000
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l003b
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP a1.03 v0000 i0000 l0001
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0b v0000 i0000 l0000
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0000 l0000
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0001 l003c
+2022-01-12T09:31:57+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0001 l0000
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: UPAN_SETUP 00.05 v0002 i0000 l0000
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: UPAN_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T09:31:58+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: CD_SETUP 00.05 v0003 i0000 l0000
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: CD_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T09:31:59+00:00 TTR3-MTB3 kernel: ===DEPCTL=c00a8200====
+2022-01-12T09:32:07+00:00 TTR3-MTB3 kernel: UPAN_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T09:32:07+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T09:32:13+00:00 TTR3-MTB3 kernel: 663,2022-01-12 09:32:13,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:13+00:00 TTR3-MTB3 kernel: 664,2022-01-12 09:32:13,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:13+00:00 TTR3-MTB3 kernel: 665,2022-01-12 09:32:13,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:13+00:00 TTR3-MTB3 kernel: 666,2022-01-12 09:32:13,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:32:13+00:00 TTR3-MTB3 kernel: 667,2022-01-12 09:32:13,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:32:13+00:00 TTR3-MTB3 kernel: 668,2022-01-12 09:32:13,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 669,2022-01-12 09:32:14,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 670,2022-01-12 09:32:14,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 671,2022-01-12 09:32:14,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 672,2022-01-12 09:32:14,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 673,2022-01-12 09:32:14,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 674,2022-01-12 09:32:14,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 675,2022-01-12 09:32:14,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:14+00:00 TTR3-MTB3 kernel: 676,2022-01-12 09:32:14,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:15+00:00 TTR3-MTB3 kernel: 677,2022-01-12 09:32:15,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:15+00:00 TTR3-MTB3 kernel: 678,2022-01-12 09:32:15,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:15+00:00 TTR3-MTB3 kernel: 679,2022-01-12 09:32:15,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:15+00:00 TTR3-MTB3 kernel: 680,2022-01-12 09:32:15,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 681,2022-01-12 09:32:16,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 682,2022-01-12 09:32:16,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 683,2022-01-12 09:32:16,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 684,2022-01-12 09:32:16,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 685,2022-01-12 09:32:16,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 686,2022-01-12 09:32:16,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T09:32:16+00:00 TTR3-MTB3 kernel: 687,2022-01-12 09:32:16,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T09:32:39+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T09:33:32+00:00 TTR3-MTB3 kernel: 688,2022-01-12 09:33:32,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T09:33:33+00:00 TTR3-MTB3 kernel: 689,2022-01-12 09:33:32,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T09:33:33+00:00 TTR3-MTB3 kernel: 690,2022-01-12 09:33:33,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T09:33:33+00:00 TTR3-MTB3 kernel: 691,2022-01-12 09:33:33,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T09:33:33+00:00 TTR3-MTB3 kernel: 692,2022-01-12 09:33:33,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: HID USB RESET
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 00.05 v0001 i0000 l0000
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0300 i0000 l0002
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0300 i0000 l0004
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0301 i0409 l0002
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0302 i0409 l0002
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0302 i0409 l0032
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l003b
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0000 l0041
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0000 l0000
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0001 l003c
+2022-01-12T09:33:34+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 00.05 v0002 i0000 l0000
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0300 i0000 l0002
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0300 i0000 l0004
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0301 i0409 l0002
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0302 i0409 l0002
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0302 i0409 l0022
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 80.00 v0000 i0000 l0002
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: ===DEPCTL=c00a8200====
+2022-01-12T09:33:35+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T09:52:11+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:52:11+00:00 TTR3-MTB3 kernel: EP0 IN disabled
+2022-01-12T09:52:11+00:00 TTR3-MTB3 kernel: EP2 IN disabled
+2022-01-12T09:52:43+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T09:52:43+00:00 TTR3-MTB3 kernel: EP0 IN disabled
+2022-01-12T09:52:43+00:00 TTR3-MTB3 kernel: EP2 IN disabled
+2022-01-12T09:52:51+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:02:55+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:10:25+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:10:30+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:13:38+00:00 TTR3-MTB3 kernel: 693,2022-01-12 10:13:38,18382,i2c_send_msg,2132,i2c 4 write data failed for tx_abort error (addr = 0x2),reason(0x1)
+2022-01-12T10:13:39+00:00 TTR3-MTB3 kernel: ## mk disconnect! ##
+2022-01-12T10:13:41+00:00 TTR3-MTB3 kernel: ## mk connect! ##
+2022-01-12T10:13:44+00:00 TTR3-MTB3 kernel: 694,2022-01-12 10:13:44,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:44+00:00 TTR3-MTB3 kernel: 695,2022-01-12 10:13:44,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:44+00:00 TTR3-MTB3 kernel: 696,2022-01-12 10:13:44,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:44+00:00 TTR3-MTB3 kernel: 697,2022-01-12 10:13:44,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 698,2022-01-12 10:13:45,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 699,2022-01-12 10:13:45,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 700,2022-01-12 10:13:45,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 701,2022-01-12 10:13:45,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 702,2022-01-12 10:13:45,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 703,2022-01-12 10:13:45,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:45+00:00 TTR3-MTB3 kernel: 704,2022-01-12 10:13:45,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:13:46+00:00 TTR3-MTB3 kernel: 705,2022-01-12 10:13:46,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:46+00:00 TTR3-MTB3 kernel: 706,2022-01-12 10:13:46,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:46+00:00 TTR3-MTB3 kernel: 707,2022-01-12 10:13:46,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:46+00:00 TTR3-MTB3 kernel: 708,2022-01-12 10:13:46,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:13:46+00:00 TTR3-MTB3 kernel: 709,2022-01-12 10:13:46,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:13:47+00:00 TTR3-MTB3 kernel: 710,2022-01-12 10:13:47,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:13:47+00:00 TTR3-MTB3 kernel: 711,2022-01-12 10:13:47,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:13:47+00:00 TTR3-MTB3 kernel: 712,2022-01-12 10:13:47,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:47+00:00 TTR3-MTB3 kernel: 713,2022-01-12 10:13:47,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:13:47+00:00 TTR3-MTB3 kernel: 714,2022-01-12 10:13:47,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:13:47+00:00 TTR3-MTB3 kernel: 715,2022-01-12 10:13:47,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T10:14:00+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T10:14:01+00:00 TTR3-MTB3 kernel: ===dctl = 2==
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: ===dctl = 0==
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 716,2022-01-12 10:14:23,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 717,2022-01-12 10:14:23,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 718,2022-01-12 10:14:23,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 719,2022-01-12 10:14:23,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 720,2022-01-12 10:14:23,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 721,2022-01-12 10:14:23,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:14:23+00:00 TTR3-MTB3 kernel: 722,2022-01-12 10:14:23,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:14:24+00:00 TTR3-MTB3 kernel: 723,2022-01-12 10:14:24,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:24+00:00 TTR3-MTB3 kernel: 724,2022-01-12 10:14:24,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:24+00:00 TTR3-MTB3 kernel: 725,2022-01-12 10:14:24,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:24+00:00 TTR3-MTB3 kernel: 726,2022-01-12 10:14:24,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:14:25+00:00 TTR3-MTB3 kernel: 727,2022-01-12 10:14:25,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:25+00:00 TTR3-MTB3 kernel: 728,2022-01-12 10:14:25,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 729,2022-01-12 10:14:26,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 730,2022-01-12 10:14:26,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 731,2022-01-12 10:14:26,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 732,2022-01-12 10:14:26,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 733,2022-01-12 10:14:26,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 734,2022-01-12 10:14:26,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 735,2022-01-12 10:14:26,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:26+00:00 TTR3-MTB3 kernel: 736,2022-01-12 10:14:26,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:27+00:00 TTR3-MTB3 kernel: 737,2022-01-12 10:14:27,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:14:27+00:00 TTR3-MTB3 kernel: 738,2022-01-12 10:14:27,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:27+00:00 TTR3-MTB3 kernel: 739,2022-01-12 10:14:27,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:27+00:00 TTR3-MTB3 kernel: 740,2022-01-12 10:14:27,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:27+00:00 TTR3-MTB3 kernel: 741,2022-01-12 10:14:27,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:27+00:00 TTR3-MTB3 kernel: 742,2022-01-12 10:14:27,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:28+00:00 TTR3-MTB3 kernel: 743,2022-01-12 10:14:28,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:14:28+00:00 TTR3-MTB3 kernel: 744,2022-01-12 10:14:28,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: HID USB RESET
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 00.05 v0001 i0000 l0000
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l003b
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP a1.03 v0000 i0000 l0001
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0b v0000 i0000 l0000
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0000 l0000
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0001 l003c
+2022-01-12T10:14:48+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0001 l0000
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: UPAN_SETUP 00.05 v0002 i0000 l0000
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: UPAN_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: UPAN_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T10:14:49+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: CD_SETUP 00.05 v0003 i0000 l0000
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: CD_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T10:14:50+00:00 TTR3-MTB3 kernel: ===DEPCTL=c00a8200====
+2022-01-12T10:14:57+00:00 TTR3-MTB3 kernel: UPAN_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T10:14:58+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T10:15:02+00:00 TTR3-MTB3 kernel: 745,2022-01-12 10:15:02,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:02+00:00 TTR3-MTB3 kernel: 746,2022-01-12 10:15:02,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:02+00:00 TTR3-MTB3 kernel: 747,2022-01-12 10:15:02,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:02+00:00 TTR3-MTB3 kernel: 748,2022-01-12 10:15:02,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 749,2022-01-12 10:15:03,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 750,2022-01-12 10:15:03,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 751,2022-01-12 10:15:03,2116,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 752,2022-01-12 10:15:03,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 753,2022-01-12 10:15:03,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 754,2022-01-12 10:15:03,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 755,2022-01-12 10:15:03,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:03+00:00 TTR3-MTB3 kernel: 756,2022-01-12 10:15:03,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:04+00:00 TTR3-MTB3 kernel: 757,2022-01-12 10:15:03,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:04+00:00 TTR3-MTB3 kernel: 758,2022-01-12 10:15:04,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:04+00:00 TTR3-MTB3 kernel: 759,2022-01-12 10:15:04,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:04+00:00 TTR3-MTB3 kernel: 760,2022-01-12 10:15:04,2113,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:04+00:00 TTR3-MTB3 kernel: 761,2022-01-12 10:15:04,2008,i2c_read_msg,2347,i2c 5 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:15:04+00:00 TTR3-MTB3 kernel: 762,2022-01-12 10:15:04,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 763,2022-01-12 10:15:05,2115,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 764,2022-01-12 10:15:05,2114,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 765,2022-01-12 10:15:05,2113,i2c_send_msg,2132,i2c 2 write data failed for tx_abort error (addr = 0xe6),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 766,2022-01-12 10:15:05,2116,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 767,2022-01-12 10:15:05,2115,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 768,2022-01-12 10:15:05,2114,i2c_read_msg,2347,i2c 2 read data failed for tx_abort error (addr = 0x48),reason(0x1)
+2022-01-12T10:15:05+00:00 TTR3-MTB3 kernel: 769,2022-01-12 10:15:05,2008,i2c_read_msg,2347,i2c 6 read data failed for tx_abort error (addr = 0x42),reason(0x1)
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T10:15:27+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: HID USB RESET
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 00.05 v0001 i0000 l0000
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0008
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0300 i0000 l0002
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0300 i0000 l0004
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0301 i0409 l0002
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0302 i0409 l0002
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0302 i0409 l0032
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 80.06 v0200 i0000 l003b
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0000 l0041
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 21.0a v0000 i0000 l0000
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 81.06 v2200 i0001 l003c
+2022-01-12T10:16:07+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 00.05 v0002 i0000 l0000
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0100 i0000 l0012
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0300 i0000 l0002
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0300 i0000 l0004
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0301 i0409 l0002
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0302 i0409 l0002
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0302 i0409 l0022
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0009
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.06 v0200 i0000 l0020
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 80.00 v0000 i0000 l0002
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP 00.09 v0001 i0000 l0000
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-IN
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: ===DEPCTL=000a8200====
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: dwc_otg_ep_activate() EP1-OUT
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: == 0===
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: ===DEPCTL=c00a8200====
+2022-01-12T10:16:08+00:00 TTR3-MTB3 kernel: CD_SETUP a1.fe v0000 i0000 l0001
+2022-01-12T10:16:11+00:00 TTR3-MTB3 kernel: 770,2022-01-12 10:16:11,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T10:16:14+00:00 TTR3-MTB3 kernel: 771,2022-01-12 10:16:14,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-12T10:17:10+00:00 TTR3-MTB3 kernel: MK_SETUP 21.09 v0200 i0000 l0001
+2022-01-12T10:17:10+00:00 TTR3-MTB3 kernel: EP0 IN disabled
+2022-01-12T10:17:10+00:00 TTR3-MTB3 kernel: EP2 IN disabled
+2022-01-12T10:17:10+00:00 TTR3-MTB3 kernel: EP0 IN disabled
+2022-01-12T10:17:10+00:00 TTR3-MTB3 kernel: EP2 IN disabled
+2022-01-12T17:18:31+00:00 TTR3-MTB3 kernel: 772,2022-01-12 17:18:31,22895,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 3
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Soft disconnect from host.
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: ==speed = 0 phy_type=1==
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Using Buffer DMA mode
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Periodic Transfer Interrupt Enhancement - disabled
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Multiprocessor Interrupt Enhancement - disabled
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: OTG VER PARAM: 1, OTG VER FLAG: 1
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-14T07:19:43+00:00 TTR3-MTB3 kernel: Initializing DCFG.DevSpd to 0x0
+2022-01-14T21:18:46+00:00 TTR3-MTB3 kernel: 773,2022-01-14 21:18:46,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-14T21:18:47+00:00 TTR3-MTB3 kernel: 774,2022-01-14 21:18:46,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-14T21:48:46+00:00 TTR3-MTB3 kernel: 775,2022-01-14 21:48:45,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-14T22:18:47+00:00 TTR3-MTB3 kernel: 776,2022-01-14 22:18:47,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-01-14T22:48:46+00:00 TTR3-MTB3 kernel: 777,2022-01-14 22:48:46,2256,i2c_send_msg,2120,i2c 4 go idle timeout(addr = 0x2)
+2022-01-14T23:48:46+00:00 TTR3-MTB3 kernel: 778,2022-01-14 23:48:46,2256,i2c_send_msg,2096,i2c 4 wait for tx fifo empty, timeout(addr = 0x2), tx fifo left 18
+2022-10-29T02:54:53+00:00 TTR3-MTB3 kernel: 779,2022-10-29 02:54:53,1990,i2c_read_msg,2359,i2c 4 read data time out! slave addr=0xa0 len=1, offset=0
+2022-11-12T05:49:39+00:00 TTR3-MTB3 kernel: 780,2022-11-12 05:49:39,22895,i2c_read_msg,2347,i2c 4 read data failed for tx_abort error (addr = 0x2),reason(0x9)

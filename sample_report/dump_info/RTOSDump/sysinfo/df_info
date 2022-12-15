@@ -1,0 +1,8 @@
+Filesystem           1K-blocks      Used Available Use% Mounted on
+/dev/mmcblk0p6          475994    142924    303973  32% /
+tmpfs                   207488         0    207488   0% /dev
+tmpfs                   207488       464    207024   0% /dev/shm
+none                     98304      9628     88676  10% /tmp
+/dev/mmcblk0p7         1935720     21832   1797508   1% /data
+/dev/pramdisk0            7927      1873      6054  24% /opt/pme/pram
+/dev/mapper/mmcblksp   3578016   2466068   1111948  69% /data/sp

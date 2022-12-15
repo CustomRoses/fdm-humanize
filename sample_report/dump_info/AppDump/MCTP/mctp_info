@@ -1,0 +1,7 @@
+------Current mctp compent control info------
+discover_flag(0x1), table_ok(0x2), me_eid(0x10), me_phy_addr(0x92), sys_status(0x0), bmc_eid(0x11), bmc_pcie_phy_addr(0x300), me_status(0x0)
+------Current mctp packet static info------
+packets_in(2713949), packets_out(58), packets_out_reg(7), packets_drop_len(0), packets_drop_crc(0), packets_drop_fifo(0), packets_drop_fifo1(0)
+------Current mctp route table content------
+EID(0x11), PHYADDR(0x0300), PHYSICAL_MEDIA(0x08), phy_media_indentify(PCIe 1.1), MSG_TYPE_SUPPORT(), VERSION_ENTRY(), UUID( 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0)
+the number of entry  in route table is 1

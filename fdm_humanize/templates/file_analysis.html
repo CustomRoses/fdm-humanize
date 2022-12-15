@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>File Analysis</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            color: #333;
+            font-size: 16px;
+            line-height: 1.5;
+        }
+
+        h1, h2 {
+            font-weight: bold;
+            color: #222;
+        }
+
+        h2 {
+            font-size: 14px;
+            margin-top: 16px;
+            margin-bottom: 8px;
+        }
+
+        p {
+            margin-top: 0;
+            margin-bottom: 8px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>File Analysis</h1>
+        <nav>
+            <a href="{{ url_for('main_page') }}">Upload</a>
+            <a href="{{ url_for('list_files') }}">Files</a>
+        </nav>
+    </header>
+    <main>
+        <h2>Analysis for file: {{ filename }}</h2>
+        <h3>Error Analysis</h3>
+        <p>Faulty Parts:</p>
+        <ul>
+            {% for part in faulty_parts %}
+                <li>{{ part|safe }}</li>
+            {% endfor %}
+        </ul>
+        <p>Messages:</p>
+        <ul>
+            {% for message in messages %}
+                <li>{{ message|safe }}</li>
+            {% endfor %}
+        <p>Number of Errors: {{ num_errors }}</p>
+    </main>
+</body>
+</html>

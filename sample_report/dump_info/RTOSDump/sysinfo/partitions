@@ -1,0 +1,35 @@
+major minor  #blocks  name
+
+   1        0      30720 ram0
+   1        1      30720 ram1
+   1        2      30720 ram2
+   1        3      30720 ram3
+   1        4      30720 ram4
+   1        5      30720 ram5
+   1        6      30720 ram6
+   1        7      30720 ram7
+   1        8      30720 ram8
+   1        9      30720 ram9
+   1       10      30720 ram10
+   1       11      30720 ram11
+   1       12      30720 ram12
+   1       13      30720 ram13
+   1       14      30720 ram14
+   1       15      30720 ram15
+ 179        0    7634944 mmcblk0
+ 179        1          1 mmcblk0p1
+ 179        2    1048576 mmcblk0p2
+ 179        4    3586336 mmcblk0p4
+ 179        5     500016 mmcblk0p5
+ 179        6     500024 mmcblk0p6
+ 179        7    1999960 mmcblk0p7
+ 179       16       4096 mmcblk0boot1
+ 179        8       4096 mmcblk0boot0
+  31        0        512 mtdblock0
+  31        1        256 mtdblock1
+  31        2        256 mtdblock2
+  31        3        512 mtdblock3
+  31        4        384 mtdblock4
+  31        5        128 mtdblock5
+ 254        0       8188 pramdisk0
+ 253        0    3585312 dm-0

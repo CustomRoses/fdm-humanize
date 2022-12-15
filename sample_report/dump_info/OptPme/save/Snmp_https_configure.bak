@@ -1,0 +1,40 @@
+Listen 443
+Listen fe80::9e7d:a3ff:fe28:6ffa%veth:40443
+
+<VirtualHost _default_:443>
+        DocumentRoot "/opt/pme/web/htdocs"
+        ServerName www.example.com 
+        ServerAdmin you@example.com
+        SSLEngine on
+        SSLCertificateFile "/data/opt/pme/web/conf/ssl.key/server.pem"
+        
+        <FilesMatch "\.(cgi|shtml|phtml|php)$">
+                SSLOptions +StdEnvVars
+        </FilesMatch>
+	 <Directory "/opt/pme/web/cgi-bin">
+                SSLOptions +StdEnvVars
+        </Directory>
+        
+        BrowserMatch "MSIE [2-5]" \
+                         nokeepalive ssl-unclean-shutdown \
+                         downgrade-1.0 force-response-1.0
+</VirtualHost>
+
+<VirtualHost [fe80::9e7d:a3ff:fe28:6ffa]:40443>
+        DocumentRoot "/opt/pme/web/htdocs"
+        ServerName www.example.com 
+        ServerAdmin you@example.com
+        SSLEngine on
+        SSLCertificateFile "/data/opt/pme/web/conf/ssl.key/server.pem"
+        
+        <FilesMatch "\.(cgi|shtml|phtml|php)$">
+                SSLOptions +StdEnvVars
+        </FilesMatch>
+	 <Directory "/opt/pme/web/cgi-bin">
+                SSLOptions +StdEnvVars
+        </Directory>
+        
+        BrowserMatch "MSIE [2-5]" \
+                         nokeepalive ssl-unclean-shutdown \
+                         downgrade-1.0 force-response-1.0
+</VirtualHost>

@@ -1,0 +1,102 @@
+virtual_sto 20480 0 - Live 0xbf092000 (PO)
+dwc_otg_sto 135168 1 virtual_sto, Live 0xbf4db000 (O)
+iptable_filter 16384 1 - Live 0xbf0f5000
+ip_tables 20480 9 iptable_filter, Live 0xbf122000
+vfat 20480 1 - Live 0xbf0dd000
+fat 69632 1 vfat, Live 0xbf1df000
+xt_tcpudp 16384 18 - Live 0xbf016000
+ip6table_filter 16384 1 - Live 0xbf778000
+ip6_tables 20480 5 ip6table_filter, Live 0xbf76e000
+xt_limit 16384 12 - Live 0xbf766000
+x_tables 28672 6 iptable_filter,ip_tables,xt_tcpudp,ip6table_filter,ip6_tables,xt_limit, Live 0xbf758000
+dm_mod 110592 3 - Live 0xbf72f000
+isofs 28672 0 - Live 0xbf723000
+mctp_drv 24576 2 - Live 0xbf718000 (O)
+cifs 380928 0 - Live 0xbf6a9000
+sha256_generic 20480 0 - Live 0xbf6a0000
+md4 16384 0 - Live 0xbf698000
+hmac 16384 0 - Live 0xbf690000
+ecb 16384 0 - Live 0xbf688000
+des_generic 28672 0 - Live 0xbf67d000
+nfsv3 32768 0 - Live 0xbf66f000
+nfs 233472 1 nfsv3, Live 0xbf61b000
+lockd 73728 2 nfsv3,nfs, Live 0xbf600000
+nfs_acl 16384 1 nfsv3, Live 0xbf5f9000
+sunrpc 294912 4 nfsv3,nfs,lockd,nfs_acl, Live 0xbf590000
+oid_registry 16384 0 - Live 0xbf589000
+grace 16384 1 lockd, Live 0xbf581000
+cachefiles 53248 1 - Live 0xbf56d000
+fscache 73728 3 cifs,nfs,cachefiles, Live 0xbf550000
+ohci_hcd_1710 28672 0 - Live 0xbf544000 (O)
+ehci_hcd_1710 49152 0 - Live 0xbf532000 (O)
+c51_drv 40960 2 - Live 0xbf524000 (O)
+pramdisk 16384 1 - Live 0xbf51c000 (O)
+rtos_snapshot 16384 0 - Live 0xbf514000 (O)
+bmc_veth_drv 32768 0 - Live 0xbf507000 (O)
+bmc_cdev_drv 16384 5 - Live 0xbf4ff000 (O)
+virtual_cd 20480 0 - Live 0xbf4d5000 (PO)
+dwc_otg_cd 135168 1 virtual_cd, Live 0xbf4a5000 (O)
+virtual_mouse_keyboard 20480 1 - Live 0xbf49b000 (PO)
+dwc_otg_keyboard 139264 1 virtual_mouse_keyboard, Live 0xbf46a000 (O)
+bmc_edma_drv 40960 2 bmc_veth_drv,bmc_cdev_drv, Live 0xbf420000 (O)
+cpld_drv 32768 0 - Live 0xbf412000 (O)
+spi_drv 24576 0 - Live 0xbf407000 (O)
+dfx_drv 24576 0 - Live 0xbf3fc000 (O)
+localbus_drv 16384 2 - Live 0xbf3f4000 (O)
+wdi_drv 16384 0 - Live 0xbf3ec000 (O)
+peci_drv 16384 1 - Live 0xbf3e4000 (O)
+uartconnect_drv 16384 2 - Live 0xbf3dc000 (O)
+uart_drv 16384 0 - Live 0xbf3d3000 (O)
+nand 65536 0 - Live 0xbf3a9000
+nand_ecc 16384 1 nand, Live 0xbf3a2000
+nand_ids 12288 1 nand, Live 0xbf39c000
+rtc_drv 16384 0 - Live 0xbf394000 (O)
+adc_drv 16384 2 - Live 0xbf38c000 (O)
+pwm_drv 20480 2 - Live 0xbf383000 (O)
+dboot_drv 16384 1 - Live 0xbf37b000 (O)
+sec_drv 24576 0 - Live 0xbf371000 (O)
+sfc_drv 40960 0 - Live 0xbf361000 (O)
+sram_drv 16384 0 - Live 0xbf359000 (O)
+rsvmem_drv 16384 0 - Live 0xbf351000 (O)
+sol_drv 20480 1 - Live 0xbf348000 (O)
+bt_drv 20480 1 - Live 0xbf33e000 (O)
+p80_drv 16384 1 - Live 0xbf336000 (O)
+ipmb_drv 24576 1 - Live 0xbf32b000 (O)
+i2c_drv 90112 8 - Live 0xbf310000 (O)
+dmac_drv 16384 0 - Live 0xbf307000 (O)
+gmac_drv 81920 0 - Live 0xbf2eb000 (O)
+mdio_drv 16384 2 gmac_drv, Live 0xbf2e3000 (O)
+mdio_bitbang 16384 0 - Live 0xbf2dc000
+8021q 28672 0 - Live 0xbf2cf000
+garp 16384 1 8021q, Live 0xbf2c7000
+stp 16384 1 garp, Live 0xbf2c0000
+llc 16384 2 garp,stp, Live 0xbf2b7000
+ipv6 344064 71 [permanent], Live 0xbf249000
+wdt_drv 16384 1 - Live 0xbf241000 (O)
+gpio_drv 28672 10 cpld_drv,sfc_drv,i2c_drv,wdt_drv, Live 0xbf234000 (O)
+sys_info_drv 24576 47 bmc_veth_drv,bmc_cdev_drv,bmc_edma_drv,rsvmem_drv,sol_drv,i2c_drv,gmac_drv,gpio_drv, Live 0xbf229000 (O)
+sdio_drv 36864 1 - Live 0xbf21b000 (O)
+comm_drv 16384 111 virtual_sto,mctp_drv,c51_drv,bmc_cdev_drv,virtual_cd,virtual_mouse_keyboard,cpld_drv,spi_drv,dfx_drv,localbus_drv,wdi_drv,peci_drv,uartconnect_drv,adc_drv,pwm_drv,dboot_drv,sec_drv,sfc_drv,sram_drv,rsvmem_drv,sol_drv,bt_drv,p80_drv,ipmb_drv,i2c_drv,dmac_drv,mdio_drv,wdt_drv,gpio_drv,sys_info_drv,sdio_drv, Live 0xbf212000 (O)
+log_drv 16384 37 virtual_sto,mctp_drv,c51_drv,bmc_veth_drv,bmc_cdev_drv,virtual_cd,virtual_mouse_keyboard,bmc_edma_drv,cpld_drv,spi_drv,dfx_drv,localbus_drv,wdi_drv,peci_drv,uartconnect_drv,uart_drv,rtc_drv,adc_drv,pwm_drv,dboot_drv,sec_drv,sfc_drv,sram_drv,rsvmem_drv,sol_drv,bt_drv,p80_drv,ipmb_drv,i2c_drv,dmac_drv,gmac_drv,mdio_drv,wdt_drv,gpio_drv,sys_info_drv,sdio_drv,comm_drv, Live 0xbf209000 (O)
+ext4 577536 2 - Live 0xbf151000
+ext2 69632 1 - Live 0xbf138000
+mbcache 16384 2 ext4,ext2, Live 0xbf12f000
+jbd2 131072 1 ext4, Live 0xbf101000
+crc16 16384 1 ext4, Live 0xbf0fa000
+mmc_block 40960 4 - Live 0xbf0ea000 (O)
+mmc_core 135168 2 sdio_drv,mmc_block, Live 0xbf0bb000 (O)
+crc32c_generic 16384 2 - Live 0xbf0b3000
+uart_suspend 16384 0 - Live 0xbf0ab000 (O)
+cramfs 49152 0 - Live 0xbf09b000
+jffs2 135168 0 - Live 0xbf070000
+cfi_cmdset_0002 45056 0 - Live 0xbf061000
+cfi_cmdset_0001 40960 0 - Live 0xbf053000
+cfi_probe 16384 0 - Live 0xbf04b000
+cfi_util 16384 3 cfi_cmdset_0002,cfi_cmdset_0001,cfi_probe, Live 0xbf044000
+chipreg 16384 1 cfi_probe, Live 0xbf03d000
+gen_probe 16384 1 cfi_probe, Live 0xbf036000
+cmdlinepart 16384 0 - Live 0xbf02e000
+mtdblock 16384 0 - Live 0xbf026000
+mtd_blkdevs 16384 1 mtdblock, Live 0xbf01e000
+mtd 57344 15 nand,sfc_drv,jffs2,cfi_cmdset_0002,cfi_cmdset_0001,cmdlinepart,mtdblock,mtd_blkdevs, Live 0xbf007000
+ksecurec 16384 40 virtual_sto,dwc_otg_sto,mctp_drv,ohci_hcd_1710,ehci_hcd_1710,c51_drv,bmc_veth_drv,bmc_cdev_drv,virtual_cd,dwc_otg_cd,virtual_mouse_keyboard,dwc_otg_keyboard,bmc_edma_drv,cpld_drv,spi_drv,dfx_drv,localbus_drv,peci_drv,uartconnect_drv,adc_drv,pwm_drv,dboot_drv,sec_drv,sfc_drv,sram_drv,rsvmem_drv,sol_drv,bt_drv,p80_drv,ipmb_drv,i2c_drv,dmac_drv,gmac_drv,mdio_drv,wdt_drv,gpio_drv,sys_info_drv,sdio_drv,comm_drv,log_drv, Live 0xbf000000 (PO)

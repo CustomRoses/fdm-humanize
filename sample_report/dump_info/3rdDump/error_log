@@ -1,0 +1,9 @@
+[Fri Jan 07 11:05:02.180724 2022] [ssl:warn] [pid 2488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 07 11:05:02.186549 2022] [ssl:warn] [pid 2488] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 07 11:05:02.317376 2022] [ssl:warn] [pid 2491] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 07 11:05:02.337934 2022] [ssl:warn] [pid 2491] AH01909: www.example.com:443:0 server certificate does NOT include an ID which matches the server name
+[Fri Jan 07 11:05:02.404128 2022] [mpm_prefork:notice] [pid 2491] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 07 11:05:02.404314 2022] [core:notice] [pid 2491] AH00094: Command line: '/opt/pme/web/bin/httpd -D SSL -f /opt/pme/web/conf/httpd-with-ssl.conf'
+[Fri Jan 07 11:05:21.793040 2022] [ssl:warn] [pid 2624] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Jan 07 11:05:21.832674 2022] [mpm_prefork:notice] [pid 2624] AH00163: Apache/2.4.46 (Unix) OpenSSL/1.1.1 configured -- resuming normal operations
+[Fri Jan 07 11:05:21.832856 2022] [core:notice] [pid 2624] AH00094: Command line: '/opt/pme/web/bin/httpd'

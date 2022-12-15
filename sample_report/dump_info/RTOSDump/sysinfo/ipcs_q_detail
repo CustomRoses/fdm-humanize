@@ -1,0 +1,405 @@
+
+Message Queue msqid=32768
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2018
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=65537
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2050
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=98306
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2041
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=131075
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1640	lrpid=2016
+send_time=Thu Nov 17 12:50:09 2022  
+rcv_time=Thu Nov 17 12:50:09 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=163844
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1640	lrpid=2028
+send_time=Thu Nov 17 12:50:09 2022  
+rcv_time=Thu Nov 17 12:50:09 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=196613
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2025
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=229382
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2010
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=262151
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2017
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=294920
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1640	lrpid=2040
+send_time=Thu Nov 17 12:46:56 2022  
+rcv_time=Thu Nov 17 12:46:56 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=327689
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1634	lrpid=2024
+send_time=Thu Nov 17 12:50:10 2022  
+rcv_time=Thu Nov 17 12:50:10 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=360458
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2011
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=393227
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2026
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=425996
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2047
+send_time=Thu Jun 30 21:57:31 2022  
+rcv_time=Thu Jun 30 21:57:31 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=458765
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2034
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:41 1970  
+
+
+
+Message Queue msqid=491534
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2022
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=524303
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2037
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=557072
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2027
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=589841
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2014
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=622610
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1640	lrpid=2057
+send_time=Thu Nov 17 12:50:06 2022  
+rcv_time=Thu Nov 17 12:50:06 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=655379
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2039
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=688148
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2033
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=720917
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1640	lrpid=2038
+send_time=Thu Nov 17 12:50:10 2022  
+rcv_time=Thu Nov 17 12:50:10 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=753686
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2023
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=786455
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1640	lrpid=2051
+send_time=Thu Nov 17 12:50:11 2022  
+rcv_time=Thu Nov 17 12:50:11 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=819224
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2012
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=851993
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2019
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Jan  1 00:00:42 1970  
+
+
+
+Message Queue msqid=884762
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=17429
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Tue Jan 11 09:12:45 2022  
+
+
+
+Message Queue msqid=917531
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=16726
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Tue Jan 11 09:08:54 2022  
+
+
+
+Message Queue msqid=950300
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=25511
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Nov 17 09:11:32 2022  
+
+
+
+Message Queue msqid=983069
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=21764
+send_time=Wed Jan 12 10:13:51 2022  
+rcv_time=Wed Jan 12 10:13:51 2022  
+change_time=Thu Nov 17 09:12:32 2022  
+
+
+
+Message Queue msqid=1015838
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=27272
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Nov 17 09:05:31 2022  
+
+
+
+Message Queue msqid=1048607
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=2626
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Fri Jan  7 11:05:21 2022  
+
+
+
+Message Queue msqid=1081376
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=15858
+send_time=Wed Jan 12 10:13:51 2022  
+rcv_time=Wed Jan 12 10:13:51 2022  
+change_time=Thu Nov 17 09:12:02 2022  
+
+
+
+Message Queue msqid=1114145
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=9911
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Nov 17 12:47:45 2022  
+
+
+
+Message Queue msqid=1146914
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=17155
+send_time=Wed Jan 12 09:30:52 2022  
+rcv_time=Wed Jan 12 09:30:52 2022  
+change_time=Thu Nov 17 12:48:06 2022  
+
+
+
+Message Queue msqid=1179683
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=1626	lrpid=9923
+send_time=Thu Jun 30 21:57:30 2022  
+rcv_time=Thu Jun 30 21:57:30 2022  
+change_time=Thu Nov 17 12:50:06 2022  
+
+
+
+Message Queue msqid=1212452
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:50:07 2022  
+
+
+
+Message Queue msqid=1245221
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:50:07 2022  
+
+
+
+Message Queue msqid=1277990
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:48:08 2022  
+
+
+
+Message Queue msqid=1310759
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:48:08 2022  
+
+
+
+Message Queue msqid=1343528
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:48:08 2022  
+
+
+
+Message Queue msqid=1376297
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:48:09 2022  
+
+
+
+Message Queue msqid=1409066
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:48:09 2022  
+
+
+
+Message Queue msqid=1441835
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:49:08 2022  
+
+
+
+Message Queue msqid=1474604
+uid=0	gid=0	cuid=0	cgid=0	mode=0666
+cbytes=0	qbytes=16384	qnum=0	lspid=0	lrpid=0
+send_time=Not set                   
+rcv_time=Not set                   
+change_time=Thu Nov 17 12:48:09 2022  
+
+

@@ -1,0 +1,15 @@
+service ssh
+{
+	flags           = ipv6 keepalive
+	#flags           = keepalive
+	socket_type     = stream
+	protocol        = tcp
+	wait            = no
+	user            = root
+	server          = /usr/sbin/sshd
+	server_args     = -i
+	log_on_failure  += USERID
+	log_on_success  += USERID HOST DURATION PID
+	disable	= no
+	instances       = 5
+}

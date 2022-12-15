@@ -1,0 +1,12 @@
+Vender Name                        :    hynix
+Vender Id                                    :    144
+Remaining Lifetime                           :    99%
+Remaining Lifetime Threshold                 :    10%
+Total Written Amount                         :    36.095650G
+Total data written in 15 days                :    1.695GB
+Data written per day in 15 days              :    0.118GB 0.112GB 0.114GB 0.114GB 0.113GB 0.113GB 0.113GB 0.112GB 0.113GB 0.114GB 0.113GB 0.113GB 0.112GB 0.113GB 0.108GB 
+Original Erase Count               :    1
+Current Erase Count                :    30
+No. of Reserved Block              :    91
+No. of Reserved Block Threshold    :    13
+No. of Runtime Bad Block           :    0

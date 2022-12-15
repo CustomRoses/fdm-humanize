@@ -1,0 +1,29 @@
+FRU Device Description : Builtin FRU Device (ID 0, Mainboard)
+ Chassis Type          : Unspecified
+ Board Mfg. Date       : 2020/12/05 Sat 04:34:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC11SPSCB
+ Board Serial Number   : 024AFQDULB001700
+ Board Part Number     : 03024AFQ
+ Board FRU File ID     : 6.13
+ Extend label          : Description=Function Module,2288H V5,H22H-05-S25AFF,2288H V5 (25*2.5inch HDD Chassis, With 2*GE and 2*10GE SFP+(Without Optical Transceiver)) H22H-05(
+                         IssueNumber=00
+                         CLEICode=Null
+                         BOM=Null
+                         Model=H22H-05-S25AFF
+ Product Manufacturer  : Huawei
+ Product Name          : 2288H V5
+ Product Part Number   : 02311XBS
+ Product Serial Number : 2102311XBS6TLC000005
+ Product FRU File ID   : 6.13
+
+FRU Device Description : Builtin FRU Device (ID 1, SR150-M)
+ Board Mfg. Date       : 2020/08/30 Sun 00:59:00
+ Board Manufacturer    : Huawei
+ Board Product Name    : BC11RLCA
+ Board Serial Number   : 024JNF6TL8006293
+ Board FRU File ID     : 3.41
+ Product Manufacturer  : Huawei
+ Product Name          : SR150-M
+ Product FRU File ID   : 3.41
+

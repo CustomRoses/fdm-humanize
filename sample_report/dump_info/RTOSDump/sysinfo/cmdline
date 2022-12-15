@@ -1,0 +1,1 @@
+ mem=416M console=ttyAMA0,115200n8N root=/dev/ram0 rdinit=/sbin/init extinit=/sbin/init extroot=/dev/mmcblk0p6 mtdparts=hi_sfc.0:512k(u-boot),256k(reserved),256k(cfg_info),512k(u-boot_bak),384k(reserved_bak),128k(env) rw rootfstype=ext4 highres=off ekbox=0x1f000$0x84be0000 kbox_mem=2944k@0x84900000

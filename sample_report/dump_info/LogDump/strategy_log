@@ -1,0 +1,120 @@
+2020-12-04 21:18:07 INFO : Enable FDM successfully
+2020-12-04 21:18:07 INFO : Enable EMCA successfully
+2020-12-04 21:18:07 INFO : Disable IOMCA successfully
+2020-12-04 21:18:07 INFO : Disable Viral successfully
+2020-12-04 21:18:07 INFO : Enable CDC successfully
+2020-12-04 21:18:57 INFO : Update SMBios Finished
+2020-12-04 21:34:27 INFO : Enable FDM successfully
+2020-12-04 21:34:27 INFO : Enable EMCA successfully
+2020-12-04 21:34:27 INFO : Disable IOMCA successfully
+2020-12-04 21:34:27 INFO : Disable Viral successfully
+2020-12-04 21:34:27 INFO : Enable CDC successfully
+2020-12-04 21:35:10 INFO : Update SMBios Finished
+1970-01-01 00:00:44 INFO : No license was detected
+2020-12-05 05:48:02 INFO : Nand Flash, close nand flash write protection.
+1970-01-01 00:00:43 INFO : No license was detected
+2021-12-30 09:43:55 INFO : Nand Flash, close nand flash write protection.
+2021-12-30 09:44:56 INFO : Enable FDM successfully
+2021-12-30 09:44:56 INFO : Enable EMCA successfully
+2021-12-30 09:44:56 INFO : Disable IOMCA successfully
+2021-12-30 09:44:56 INFO : Disable Viral successfully
+2021-12-30 09:44:56 INFO : Enable CDC successfully
+2021-12-30 09:46:18 INFO : Update SMBios Finished
+2021-12-30 09:47:59 INFO : Nand Flash, close nand flash write protection.
+1970-01-01 00:01:39 INFO : No license was detected
+2021-12-30 09:54:09 WARN : Nand Flash, close nand flash write protection.
+1970-01-01 00:01:21 INFO : No license was detected
+2021-12-30 10:07:36 WARN : Nand Flash, close nand flash write protection.
+2021-12-30 10:08:43 INFO : Enable FDM successfully
+2021-12-30 10:08:43 INFO : Enable EMCA successfully
+2021-12-30 10:08:43 INFO : Disable IOMCA successfully
+2021-12-30 10:08:43 INFO : Disable Viral successfully
+2021-12-30 10:08:43 INFO : Enable CDC successfully
+2021-12-30 10:10:00 INFO : Update SMBios Finished
+1970-01-01 00:01:24 INFO : No license was detected
+2021-12-30 10:15:16 WARN : Nand Flash, close nand flash write protection.
+2021-12-30 10:16:22 INFO : Enable FDM successfully
+2021-12-30 10:16:22 INFO : Enable EMCA successfully
+2021-12-30 10:16:22 INFO : Disable IOMCA successfully
+2021-12-30 10:16:22 INFO : Disable Viral successfully
+2021-12-30 10:16:22 INFO : Enable CDC successfully
+2021-12-30 10:17:38 INFO : Update SMBios Finished
+2021-12-30 10:33:23 WARN : Nand Flash, close nand flash write protection.
+2021-12-30 10:43:29 INFO : Forbid to set FRU0 power on successfully
+1970-01-01 00:01:21 INFO : No license was detected
+2021-12-30 10:46:22 WARN : Nand Flash, close nand flash write protection.
+2021-12-30 10:46:51 INFO : Enable FDM successfully
+2021-12-30 10:46:51 INFO : Enable EMCA successfully
+2021-12-30 10:46:52 INFO : Disable IOMCA successfully
+2021-12-30 10:46:52 INFO : Disable Viral successfully
+2021-12-30 10:46:52 INFO : Enable CDC successfully
+2021-12-30 10:48:07 INFO : Update SMBios Finished
+2021-12-30 11:03:50 WARN : Nand Flash, close nand flash write protection.
+2021-12-30 11:03:52 INFO : Forbid to set FRU0 power on successfully
+2021-12-30 11:04:08 INFO : Allow to set FRU0 power on successfully
+2021-12-30 11:04:52 WARN : Nand Flash, close nand flash write protection.
+2021-12-30 11:04:53 INFO : Upgrade bios.hpm started
+2021-12-30 11:04:53 INFO : Forbid to set FRU0 power on successfully
+2021-12-30 11:08:15 INFO : Upgrade (BIOS) with (bios.hpm) from version(7.79) successfully
+2021-12-30 11:08:25 INFO : Allow to set FRU0 power on successfully
+2021-12-30 11:10:06 INFO : Enable FDM successfully
+2021-12-30 11:10:06 INFO : Enable EMCA successfully
+2021-12-30 11:10:06 INFO : Disable IOMCA successfully
+2021-12-30 11:10:07 INFO : Disable Viral successfully
+2021-12-30 11:10:07 INFO : Enable CDC successfully
+2021-12-30 11:11:25 INFO : Enable FDM successfully
+2021-12-30 11:11:25 INFO : Enable EMCA successfully
+2021-12-30 11:11:25 INFO : Disable IOMCA successfully
+2021-12-30 11:11:25 INFO : Disable Viral successfully
+2021-12-30 11:11:25 INFO : Enable CDC successfully
+2021-12-30 11:13:10 INFO : Update SMBios Finished
+1970-01-01 00:01:20 INFO : No license was detected
+2022-01-07 11:05:05 WARN : Nand Flash, close nand flash write protection.
+2022-01-07 11:05:34 INFO : Enable FDM successfully
+2022-01-07 11:05:34 INFO : Enable EMCA successfully
+2022-01-07 11:05:34 INFO : Disable IOMCA successfully
+2022-01-07 11:05:34 INFO : Disable Viral successfully
+2022-01-07 11:05:34 INFO : Enable CDC successfully
+2022-01-07 11:06:59 INFO : Update SMBios Finished
+2022-01-10 09:05:45 INFO : Enable FDM successfully
+2022-01-10 09:05:45 INFO : Enable EMCA successfully
+2022-01-10 09:05:45 INFO : Disable IOMCA successfully
+2022-01-10 09:05:45 INFO : Disable Viral successfully
+2022-01-10 09:05:45 INFO : Enable CDC successfully
+2022-01-10 09:06:56 INFO : Update SMBios Finished
+2022-01-10 09:17:01 INFO : Enable FDM successfully
+2022-01-10 09:17:01 INFO : Enable EMCA successfully
+2022-01-10 09:17:01 INFO : Disable IOMCA successfully
+2022-01-10 09:17:01 INFO : Disable Viral successfully
+2022-01-10 09:17:01 INFO : Enable CDC successfully
+2022-01-10 09:18:14 INFO : Update SMBios Finished
+2022-01-10 09:25:27 INFO : Enable FDM successfully
+2022-01-10 09:25:27 INFO : Enable EMCA successfully
+2022-01-10 09:25:27 INFO : Disable IOMCA successfully
+2022-01-10 09:25:27 INFO : Disable Viral successfully
+2022-01-10 09:25:27 INFO : Enable CDC successfully
+2022-01-10 09:26:37 INFO : Update SMBios Finished
+2022-01-12 08:44:53 INFO : Enable FDM successfully
+2022-01-12 08:44:53 INFO : Enable EMCA successfully
+2022-01-12 08:44:53 INFO : Disable IOMCA successfully
+2022-01-12 08:44:53 INFO : Disable Viral successfully
+2022-01-12 08:44:53 INFO : Enable CDC successfully
+2022-01-12 08:46:07 INFO : Update SMBios Finished
+2022-01-12 08:47:19 INFO : Enable FDM successfully
+2022-01-12 08:47:19 INFO : Enable EMCA successfully
+2022-01-12 08:47:19 INFO : Disable IOMCA successfully
+2022-01-12 08:47:19 INFO : Disable Viral successfully
+2022-01-12 08:47:19 INFO : Enable CDC successfully
+2022-01-12 08:48:35 INFO : Update SMBios Finished
+2022-01-12 09:31:00 INFO : Enable FDM successfully
+2022-01-12 09:31:00 INFO : Enable EMCA successfully
+2022-01-12 09:31:00 INFO : Disable IOMCA successfully
+2022-01-12 09:31:00 INFO : Disable Viral successfully
+2022-01-12 09:31:00 INFO : Enable CDC successfully
+2022-01-12 09:32:22 INFO : Update SMBios Finished
+2022-01-12 10:13:59 INFO : Enable FDM successfully
+2022-01-12 10:13:59 INFO : Enable EMCA successfully
+2022-01-12 10:13:59 INFO : Disable IOMCA successfully
+2022-01-12 10:13:59 INFO : Disable Viral successfully
+2022-01-12 10:13:59 INFO : Enable CDC successfully
+2022-01-12 10:15:10 INFO : Update SMBios Finished

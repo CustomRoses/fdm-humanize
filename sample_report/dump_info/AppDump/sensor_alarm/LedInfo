@@ -1,0 +1,13 @@
+********** PME LED Information **********
+LED Name               : SysHealLed
+LED Color Capabilities : REDGREEN
+Default LED Color in
+      LOCAL control    : GREEN
+      OVERRIDE state   : GREEN
+
+LED Name               : UIDLed
+LED Color Capabilities : BLUE
+Default LED Color in
+      LOCAL control    : BLUE
+      OVERRIDE state   : BLUE
+
