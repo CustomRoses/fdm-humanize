@@ -1,13 +1,51 @@
 <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-    <title>File Upload</title>
+    <title>CND FDM Auswertungs-Tool</title>
+    <!-- Materialize CSS -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <style>
+        button {
+            border: 2px solid black;
+        }
+
+        /* Use the "light-blue-text" class to change the color of the navbar text */
+        /* Use the "grey lighten-2" class to change the color of the file input border */
+        .grey.lighten-2 {
+            border-color: #bdbdbd;
+        }
+        .black-text {
+            color: black;
+        }
+        /* Use the "grey lighten-1" class to change the color of the file input text */
+        .grey-text.text-lighten-1 {
+            color: #bdbdbd;
+        }
+        /* Use the "grey" class to change the color of the submit button */
+        .grey {
+            background-color: #bdbdbd;
+        }
+    </style>
 </head>
 <body>
-    <h1>File Upload</h1>
-    <form action="{{ url_for('upload_file') }}" method="POST" enctype="multipart/form-data">
-        <input type="file" name="file" />
-        <input type="submit" value="Upload" />
-    </form>
+    <div class="container">
+        <form action="{{ url_for('upload_file') }}" method="POST" enctype="multipart/form-data">
+            <div class="file-field input-field">
+                <div class="btn grey lighten-2">
+                    <span class="black-text">File</span>
+                    <input type="file" name="file">
+                </div>
+                <div class="file-path-wrapper">
+                    <input class="file-path validate" type="text">
+                </div>
+            </div>
+            <button class="btn grey" type="submit" name="action">Upload
+                <i class="material-icons right">send</i>
+            </button>
+        </form>
+    </div>
+    <!-- Materialize JavaScript -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </body>
 </html>

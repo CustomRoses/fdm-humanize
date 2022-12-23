@@ -13,10 +13,8 @@ logging.basicConfig(level=logging.DEBUG)
 
 # DEBUGGING:
 # Print the current working directory
-print(os.getcwd())
+
 # print the contents of the current directory and subdirectories
-for root, dirs, files in os.walk("."):
-    print(root, dirs, files)
 def create_app() -> flask.Flask:
     app = flask.Flask(__name__)
     app.config["UPLOAD_FOLDER"] = "./uploaded_files"
@@ -51,9 +49,10 @@ def create_app() -> flask.Flask:
     @app.route('/files/<filename>')
     def show_file_analysis(filename):
         # perform analysis on file
-        faults, msgs, ne = analyse_file(filename)
+        faults, msgs, ne, summary = analyse_file(filename)
+        print(summary)
         return flask.render_template('file_analysis.html', filename=filename, faulty_parts=faults, num_errors=ne,
-                                     messages=msgs)
+                                     messages=msgs, summary=summary)
 
     @app.route('/')
     def main_page():

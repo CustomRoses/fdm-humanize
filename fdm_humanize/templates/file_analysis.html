@@ -10,12 +10,35 @@
             line-height: 1.5;
         }
 
-        h1, h2 {
-            font-weight: bold;
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 16px;
+            background-color: #eee;
+            box-shadow: 0 2px 2px rgba(0,0,0,0.1);
+        }
+
+        h1 {
+            font-size: 24px;
+            margin: 0;
+        }
+
+        nav a {
+            display: inline-block;
+            margin-left: 16px;
+            text-decoration: none;
             color: #222;
+            font-weight: bold;
         }
 
         h2 {
+            font-size: 18px;
+            margin-top: 32px;
+            margin-bottom: 8px;
+        }
+
+        h3 {
             font-size: 14px;
             margin-top: 16px;
             margin-bottom: 8px;
@@ -23,6 +46,16 @@
 
         p {
             margin-top: 0;
+            margin-bottom: 8px;
+        }
+
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        li {
             margin-bottom: 8px;
         }
 
@@ -37,10 +70,22 @@
             text-align: left;
         }
 
-        ul {
-            margin: 0;
-            padding: 0;
-            list-style: none;
+        /* Add some hover effects to the nav links */
+        nav a:hover {
+            color: #555;
+        }
+
+        /* Add a responsive layout */
+        @media (max-width: 600px) {
+            header {
+                flex-direction: column;
+                align-items: flex-start;
+            }
+
+            nav a {
+                margin-left: 0;
+                margin-top: 8px;
+            }
         }
     </style>
 </head>
@@ -54,19 +99,27 @@
     </header>
     <main>
         <h2>Analysis for file: {{ filename }}</h2>
+        <h4>Summary</h4>
+        {% for info, value in summary.items() %}
+            <p><strong>{{ info[0] }} (SN: {{ info[1] }})</strong> {{ value }}</p>
+        {% endfor %}
         <h3>Error Analysis</h3>
-        <p>Faulty Parts:</p>
-        <ul>
-            {% for part in faulty_parts %}
-                <li>{{ part|safe }}</li>
-            {% endfor %}
-        </ul>
-        <p>Messages:</p>
-        <ul>
-            {% for message in messages %}
-                <li>{{ message|safe }}</li>
-            {% endfor %}
-        <p>Number of Errors: {{ num_errors }}</p>
+        {% if num_errors > 0 %}
+            <p>Faulty Parts:</p>
+            <ul>
+                {% for part in faulty_parts %}
+                    <li>{{ part|safe }}</li>
+                {% endfor %}
+            </ul>
+            <p>Messages:</p>
+            <ul>
+                {% for message in messages %}
+                    <li>{{ message|safe }}</li>
+                {% endfor %}
+            <p>Number of Errors: {{ num_errors }}</p>
+        {% else %}
+            <p>No errors found in file.</p>
+        {% endif %}
     </main>
 </body>
 </html>

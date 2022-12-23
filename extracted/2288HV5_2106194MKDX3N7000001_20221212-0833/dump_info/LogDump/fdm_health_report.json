@@ -1,1 +1,1459 @@
-{"ReportTimeStamp":1670830458,"ReportTimeZone":60,"FDMWebSwitch":1,"ReportType":"Auto","WebConfig":{"AotuUpdateSwtich":1,"UpdateCycle":1,"TimeQuant":0},"HealthReport":[{"Alias":69632,"ComponentID":16,"ComponentType":"Mainboard","SilkName":"Mainboard","HealthStatus":"Failed","Suggestion":"1.Re-install it;@#AB;2.If issue persists then replace it;@#AB;3.If the issue still persists,contact xFusion digital technical support.@#AB;","History":[{"ReportTimeStamp":1670357661,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Error storm (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"CE_STORM"},{"ReportTimeStamp":1670311756,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670311122,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670310487,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670309853,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670309218,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670308584,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670307949,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670307315,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670306680,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670306046,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670305411,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670304777,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670304142,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670303508,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670302873,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670302239,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670301604,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670300970,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670300335,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670299701,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670299066,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670298432,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670297797,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670297163,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670296529,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670295894,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670295260,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MEMORY_CE"},{"ReportTimeStamp":1670294541,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Major","Information":"Fault detected by error storm (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"CE_STORM"},{"ReportTimeStamp":1670293955,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Error storm (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"CE_STORM"},{"ReportTimeStamp":1670293383,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Major","Information":"Uncorrectable Error,MCACODE:0X0134,MSCODE:0X0010 (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"MCERR"},{"ReportTimeStamp":1670293355,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Minor","Information":"Error storm (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"CE_STORM"},{"ReportTimeStamp":1670280714,"ReportTimeZone":60,"SilkName":"Mainboard","Level":"Critical","Information":"CATERR Fault (BN:0302021706).","Type":"FDM Warning","EventCodeStr":"IERR"}]},{"Alias":65807,"ComponentID":1,"ComponentType":"Memory","SilkName":"DIMM110","HealthStatus":"Good","Suggestion":"","History":[]},{"Alias":65808,"ComponentID":1,"ComponentType":"Memory","SilkName":"DIMM111","HealthStatus":"Good","Suggestion":"","History":[]},{"Alias":65810,"ComponentID":1,"ComponentType":"Memory","SilkName":"DIMM121","HealthStatus":"Good","Suggestion":"","History":[]}],"DevTree":{"SilkName":"2288H V5","ComponentType":"UNKNOWN","ComponentID":255,"Alias":-1,"HealthStatus":"Good","MaintenceHistroy":[],"RefFru":{"RefFruClass":"NA","RefFruObj":"NA"},"Children":[{"SilkName":"CPU1","ComponentType":"CPU","ComponentID":0,"Alias":65537,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974169,"ReportTimeZone":60,"SilkName":"CPU1","ComponentType":"CPU","ComponentID":0,"PPIN":"487F07BE4E634038","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(PPIN: 487F07BE4E634038)."}],"RefFru":{"RefFruClass":"Cpu","RefFruObj":"Cpu1"},"Children":[{"SilkName":"Mainboard","ComponentType":"Mainboard","ComponentID":16,"Alias":69632,"HealthStatus":"Failed","MaintenceHistroy":[{"ReportTimeStamp":1657113197,"ReportTimeZone":60,"SilkName":"Mainboard","ComponentType":"Mainboard","ComponentID":16,"SN":"X52247111969","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: X52247111969)."}],"RefFru":{"RefFruClass":"Component","RefFruObj":"ComMotherBoard"},"Children":[{"SilkName":"DIMM000","ComponentType":"Memory","ComponentID":1,"Alias":65793,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM000","ComponentType":"Memory","ComponentID":1,"SN":"246E6544","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6544)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory000"},"Children":[]},{"SilkName":"DIMM001","ComponentType":"Memory","ComponentID":1,"Alias":65794,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM001","ComponentType":"Memory","ComponentID":1,"SN":"246E6524","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6524)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory001"},"Children":[]},{"SilkName":"DIMM010","ComponentType":"Memory","ComponentID":1,"Alias":65795,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM010","ComponentType":"Memory","ComponentID":1,"SN":"246E6516","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6516)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory010"},"Children":[]},{"SilkName":"DIMM011","ComponentType":"Memory","ComponentID":1,"Alias":65796,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM011","ComponentType":"Memory","ComponentID":1,"SN":"246E650D","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E650D)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory011"},"Children":[]},{"SilkName":"DIMM020","ComponentType":"Memory","ComponentID":1,"Alias":65797,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM020","ComponentType":"Memory","ComponentID":1,"SN":"246E652C","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E652C)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory020"},"Children":[]},{"SilkName":"DIMM021","ComponentType":"Memory","ComponentID":1,"Alias":65798,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM021","ComponentType":"Memory","ComponentID":1,"SN":"246E65CF","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E65CF)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory021"},"Children":[]},{"SilkName":"DIMM030","ComponentType":"Memory","ComponentID":1,"Alias":65799,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM030","ComponentType":"Memory","ComponentID":1,"SN":"246E653D","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E653D)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory030"},"Children":[]},{"SilkName":"DIMM031","ComponentType":"Memory","ComponentID":1,"Alias":65800,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM031","ComponentType":"Memory","ComponentID":1,"SN":"246E6523","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6523)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory031"},"Children":[]},{"SilkName":"DIMM040","ComponentType":"Memory","ComponentID":1,"Alias":65801,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM040","ComponentType":"Memory","ComponentID":1,"SN":"246E652B","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E652B)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory040"},"Children":[]},{"SilkName":"DIMM041","ComponentType":"Memory","ComponentID":1,"Alias":65802,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM041","ComponentType":"Memory","ComponentID":1,"SN":"246E6542","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6542)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory041"},"Children":[]},{"SilkName":"DIMM050","ComponentType":"Memory","ComponentID":1,"Alias":65803,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM050","ComponentType":"Memory","ComponentID":1,"SN":"246E6526","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6526)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory050"},"Children":[]},{"SilkName":"DIMM051","ComponentType":"Memory","ComponentID":1,"Alias":65804,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM051","ComponentType":"Memory","ComponentID":1,"SN":"246E6541","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6541)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory051"},"Children":[]},{"SilkName":"LOM","ComponentType":"NIC","ComponentID":13,"Alias":68864,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"LOM","ComponentType":"NIC","ComponentID":13,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"NetCard","RefFruObj":"LomCard"},"Children":[]},{"SilkName":"RAID Card1","ComponentType":"RAID Card","ComponentID":6,"Alias":67073,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"RAID Card1","ComponentType":"RAID Card","ComponentID":6,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"Raid","RefFruObj":"Raid-1"},"Children":[{"SilkName":"Disk BP1","ComponentType":"Disk Backplane","ComponentID":5,"Alias":66817,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"Disk BP1","ComponentType":"Disk Backplane","ComponentID":5,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"HDDBackplane","RefFruObj":"HDDBackplane-2"},"Children":[{"SilkName":"Disk0","ComponentType":"Disk","ComponentID":2,"Alias":66048,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974169,"ReportTimeZone":60,"SilkName":"Disk0","ComponentType":"Disk","ComponentID":2,"SN":"S45RNC0T219475","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: S45RNC0T219475)."}],"RefFru":{"RefFruClass":"Hdd","RefFruObj":"Hdd0-2"},"Children":[]},{"SilkName":"Disk1","ComponentType":"Disk","ComponentID":2,"Alias":66049,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974169,"ReportTimeZone":60,"SilkName":"Disk1","ComponentType":"Disk","ComponentID":2,"SN":"S45RNC0T219473","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: S45RNC0T219473)."}],"RefFru":{"RefFruClass":"Hdd","RefFruObj":"Hdd1-2"},"Children":[]}]}]}]}]},{"SilkName":"CPU2","ComponentType":"CPU","ComponentID":0,"Alias":65538,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974169,"ReportTimeZone":60,"SilkName":"CPU2","ComponentType":"CPU","ComponentID":0,"PPIN":"48E30E14017CD518","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(PPIN: 48E30E14017CD518)."}],"RefFru":{"RefFruClass":"Cpu","RefFruObj":"Cpu2"},"Children":[{"SilkName":"Mainboard","ComponentType":"Mainboard","ComponentID":16,"Alias":69632,"HealthStatus":"Failed","MaintenceHistroy":[{"ReportTimeStamp":1657113197,"ReportTimeZone":60,"SilkName":"Mainboard","ComponentType":"Mainboard","ComponentID":16,"SN":"X52247111969","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: X52247111969)."}],"RefFru":{"RefFruClass":"Component","RefFruObj":"ComMotherBoard"},"Children":[{"SilkName":"DIMM100","ComponentType":"Memory","ComponentID":1,"Alias":65805,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974318,"ReportTimeZone":60,"SilkName":"DIMM100","ComponentType":"Memory","ComponentID":1,"SN":"246E653F","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E653F)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory100"},"Children":[]},{"SilkName":"DIMM101","ComponentType":"Memory","ComponentID":1,"Alias":65806,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM101","ComponentType":"Memory","ComponentID":1,"SN":"246E6525","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6525)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory101"},"Children":[]},{"SilkName":"DIMM110","ComponentType":"Memory","ComponentID":1,"Alias":65807,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM110","ComponentType":"Memory","ComponentID":1,"SN":"246E6540","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6540)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory110"},"Children":[]},{"SilkName":"DIMM111","ComponentType":"Memory","ComponentID":1,"Alias":65808,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM111","ComponentType":"Memory","ComponentID":1,"SN":"246E675A","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E675A)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory111"},"Children":[]},{"SilkName":"DIMM120","ComponentType":"Memory","ComponentID":1,"Alias":65809,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670580114,"ReportTimeZone":60,"SilkName":"DIMM120","ComponentType":"Memory","ComponentID":1,"SN":"2460AE65","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 2460AE65)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory120"},"Children":[]},{"SilkName":"DIMM121","ComponentType":"Memory","ComponentID":1,"Alias":65810,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM121","ComponentType":"Memory","ComponentID":1,"SN":"246E6518","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6518)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory121"},"Children":[]},{"SilkName":"DIMM130","ComponentType":"Memory","ComponentID":1,"Alias":65811,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM130","ComponentType":"Memory","ComponentID":1,"SN":"246E6536","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6536)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory130"},"Children":[]},{"SilkName":"DIMM131","ComponentType":"Memory","ComponentID":1,"Alias":65812,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM131","ComponentType":"Memory","ComponentID":1,"SN":"246E65C3","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E65C3)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory131"},"Children":[]},{"SilkName":"DIMM140","ComponentType":"Memory","ComponentID":1,"Alias":65813,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM140","ComponentType":"Memory","ComponentID":1,"SN":"246E65E3","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E65E3)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory140"},"Children":[]},{"SilkName":"DIMM141","ComponentType":"Memory","ComponentID":1,"Alias":65814,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM141","ComponentType":"Memory","ComponentID":1,"SN":"246E6535","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6535)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory141"},"Children":[]},{"SilkName":"DIMM150","ComponentType":"Memory","ComponentID":1,"Alias":65815,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM150","ComponentType":"Memory","ComponentID":1,"SN":"246E654D","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E654D)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory150"},"Children":[]},{"SilkName":"DIMM151","ComponentType":"Memory","ComponentID":1,"Alias":65816,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974319,"ReportTimeZone":60,"SilkName":"DIMM151","ComponentType":"Memory","ComponentID":1,"SN":"246E6532","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 246E6532)."}],"RefFru":{"RefFruClass":"Memory","RefFruObj":"Memory151"},"Children":[]},{"SilkName":"NIC1","ComponentType":"NIC","ComponentID":13,"Alias":68865,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"NIC1","ComponentType":"NIC","ComponentID":13,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"NetCard","RefFruObj":"LomCard-3"},"Children":[]}]}]},{"SilkName":"Mainboard","ComponentType":"Mainboard","ComponentID":16,"Alias":69632,"HealthStatus":"Failed","MaintenceHistroy":[{"ReportTimeStamp":1657113197,"ReportTimeZone":60,"SilkName":"Mainboard","ComponentType":"Mainboard","ComponentID":16,"SN":"X52247111969","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: X52247111969)."}],"RefFru":{"RefFruClass":"Component","RefFruObj":"ComMotherBoard"},"Children":[]},{"SilkName":"PSU1","ComponentType":"PSU","ComponentID":3,"Alias":66305,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974169,"ReportTimeZone":60,"SilkName":"PSU1","ComponentType":"PSU","ComponentID":3,"SN":"2102312PEUW0MC019617","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 2102312PEUW0MC019617)."}],"RefFru":{"RefFruClass":"OnePower","RefFruObj":"onepower-4"},"Children":[]},{"SilkName":"PSU2","ComponentType":"PSU","ComponentID":3,"Alias":66306,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1669974169,"ReportTimeZone":60,"SilkName":"PSU2","ComponentType":"PSU","ComponentID":3,"SN":"2102312PEUW0MC019615","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: 2102312PEUW0MC019615)."}],"RefFru":{"RefFruClass":"OnePower","RefFruObj":"onepower-5"},"Children":[]},{"SilkName":"Fan1","ComponentType":"Fan","ComponentID":4,"Alias":66561,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"Fan1","ComponentType":"Fan","ComponentID":4,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"FANClass","RefFruObj":"fan1"},"Children":[]},{"SilkName":"Fan2","ComponentType":"Fan","ComponentID":4,"Alias":66562,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"Fan2","ComponentType":"Fan","ComponentID":4,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"FANClass","RefFruObj":"fan2"},"Children":[]},{"SilkName":"Fan3","ComponentType":"Fan","ComponentID":4,"Alias":66563,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"Fan3","ComponentType":"Fan","ComponentID":4,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"FANClass","RefFruObj":"fan3"},"Children":[]},{"SilkName":"Fan4","ComponentType":"Fan","ComponentID":4,"Alias":66564,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1670579962,"ReportTimeZone":60,"SilkName":"Fan4","ComponentType":"Fan","ComponentID":4,"SN":"NA","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation."}],"RefFru":{"RefFruClass":"FANClass","RefFruObj":"fan4"},"Children":[]},{"SilkName":"Chassis","ComponentType":"Chassis","ComponentID":18,"Alias":70145,"HealthStatus":"Good","MaintenceHistroy":[{"ReportTimeStamp":1657113196,"ReportTimeZone":60,"SilkName":"Chassis","ComponentType":"Chassis","ComponentID":18,"SN":"","Level":"Event","EventCodeStr":"INSTALL_COMPONENT","Type":"Installation","Information":"Device Installation(SN: )."}],"RefFru":{"RefFruClass":"Component","RefFruObj":"ComChassis"},"Children":[]}]}}
+{
+  "ReportTimeStamp": 1670830458,
+  "ReportTimeZone": 60,
+  "FDMWebSwitch": 1,
+  "ReportType": "Auto",
+  "WebConfig": {
+    "AotuUpdateSwtich": 1,
+    "UpdateCycle": 1,
+    "TimeQuant": 0
+  },
+  "HealthReport": [
+    {
+      "Alias": 69632,
+      "ComponentID": 16,
+      "ComponentType": "Mainboard",
+      "SilkName": "Mainboard",
+      "HealthStatus": "Failed",
+      "Suggestion": "1.Re-install it;@#AB;2.If issue persists then replace it;@#AB;3.If the issue still persists,contact xFusion digital technical support.@#AB;",
+      "History": [
+        {
+          "ReportTimeStamp": 1670357661,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Error storm (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "CE_STORM"
+        },
+        {
+          "ReportTimeStamp": 1670311756,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670311122,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670310487,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670309853,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670309218,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670308584,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670307949,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670307315,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670306680,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670306046,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670305411,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670304777,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670304142,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670303508,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670302873,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670302239,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670301604,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670300970,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670300335,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670299701,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670299066,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670298432,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670297797,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670297163,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670296529,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670295894,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670295260,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Correctable Error Rate exceeded Memory Bucket Threshold (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MEMORY_CE"
+        },
+        {
+          "ReportTimeStamp": 1670294541,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Major",
+          "Information": "Fault detected by error storm (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "CE_STORM"
+        },
+        {
+          "ReportTimeStamp": 1670293955,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Error storm (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "CE_STORM"
+        },
+        {
+          "ReportTimeStamp": 1670293383,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Major",
+          "Information": "Uncorrectable Error,MCACODE:0X0134,MSCODE:0X0010 (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "MCERR"
+        },
+        {
+          "ReportTimeStamp": 1670293355,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Minor",
+          "Information": "Error storm (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "CE_STORM"
+        },
+        {
+          "ReportTimeStamp": 1670280714,
+          "ReportTimeZone": 60,
+          "SilkName": "Mainboard",
+          "Level": "Critical",
+          "Information": "CATERR Fault (BN:0302021706).",
+          "Type": "FDM Warning",
+          "EventCodeStr": "IERR"
+        }
+      ]
+    },
+    {
+      "Alias": 65807,
+      "ComponentID": 1,
+      "ComponentType": "Memory",
+      "SilkName": "DIMM110",
+      "HealthStatus": "Good",
+      "Suggestion": "",
+      "History": []
+    },
+    {
+      "Alias": 65808,
+      "ComponentID": 1,
+      "ComponentType": "Memory",
+      "SilkName": "DIMM111",
+      "HealthStatus": "Good",
+      "Suggestion": "",
+      "History": []
+    },
+    {
+      "Alias": 65810,
+      "ComponentID": 1,
+      "ComponentType": "Memory",
+      "SilkName": "DIMM121",
+      "HealthStatus": "Good",
+      "Suggestion": "",
+      "History": []
+    }
+  ],
+  "DevTree": {
+    "SilkName": "2288H V5",
+    "ComponentType": "UNKNOWN",
+    "ComponentID": 255,
+    "Alias": -1,
+    "HealthStatus": "Good",
+    "MaintenceHistroy": [],
+    "RefFru": {
+      "RefFruClass": "NA",
+      "RefFruObj": "NA"
+    },
+    "Children": [
+      {
+        "SilkName": "CPU1",
+        "ComponentType": "CPU",
+        "ComponentID": 0,
+        "Alias": 65537,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1669974169,
+            "ReportTimeZone": 60,
+            "SilkName": "CPU1",
+            "ComponentType": "CPU",
+            "ComponentID": 0,
+            "PPIN": "487F07BE4E634038",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation(PPIN: 487F07BE4E634038)."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "Cpu",
+          "RefFruObj": "Cpu1"
+        },
+        "Children": [
+          {
+            "SilkName": "Mainboard",
+            "ComponentType": "Mainboard",
+            "ComponentID": 16,
+            "Alias": 69632,
+            "HealthStatus": "Failed",
+            "MaintenceHistroy": [
+              {
+                "ReportTimeStamp": 1657113197,
+                "ReportTimeZone": 60,
+                "SilkName": "Mainboard",
+                "ComponentType": "Mainboard",
+                "ComponentID": 16,
+                "SN": "X52247111969",
+                "Level": "Event",
+                "EventCodeStr": "INSTALL_COMPONENT",
+                "Type": "Installation",
+                "Information": "Device Installation(SN: X52247111969)."
+              }
+            ],
+            "RefFru": {
+              "RefFruClass": "Component",
+              "RefFruObj": "ComMotherBoard"
+            },
+            "Children": [
+              {
+                "SilkName": "DIMM000",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65793,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM000",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6544",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6544)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory000"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM001",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65794,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM001",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6524",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6524)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory001"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM010",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65795,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM010",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6516",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6516)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory010"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM011",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65796,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM011",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E650D",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E650D)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory011"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM020",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65797,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM020",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E652C",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E652C)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory020"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM021",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65798,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM021",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E65CF",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E65CF)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory021"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM030",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65799,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM030",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E653D",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E653D)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory030"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM031",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65800,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM031",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6523",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6523)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory031"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM040",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65801,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM040",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E652B",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E652B)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory040"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM041",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65802,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM041",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6542",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6542)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory041"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM050",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65803,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM050",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6526",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6526)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory050"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM051",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65804,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM051",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6541",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6541)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory051"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "LOM",
+                "ComponentType": "NIC",
+                "ComponentID": 13,
+                "Alias": 68864,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1670579962,
+                    "ReportTimeZone": 60,
+                    "SilkName": "LOM",
+                    "ComponentType": "NIC",
+                    "ComponentID": 13,
+                    "SN": "NA",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "NetCard",
+                  "RefFruObj": "LomCard"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "RAID Card1",
+                "ComponentType": "RAID Card",
+                "ComponentID": 6,
+                "Alias": 67073,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1670579962,
+                    "ReportTimeZone": 60,
+                    "SilkName": "RAID Card1",
+                    "ComponentType": "RAID Card",
+                    "ComponentID": 6,
+                    "SN": "NA",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Raid",
+                  "RefFruObj": "Raid-1"
+                },
+                "Children": [
+                  {
+                    "SilkName": "Disk BP1",
+                    "ComponentType": "Disk Backplane",
+                    "ComponentID": 5,
+                    "Alias": 66817,
+                    "HealthStatus": "Good",
+                    "MaintenceHistroy": [
+                      {
+                        "ReportTimeStamp": 1670579962,
+                        "ReportTimeZone": 60,
+                        "SilkName": "Disk BP1",
+                        "ComponentType": "Disk Backplane",
+                        "ComponentID": 5,
+                        "SN": "NA",
+                        "Level": "Event",
+                        "EventCodeStr": "INSTALL_COMPONENT",
+                        "Type": "Installation",
+                        "Information": "Device Installation."
+                      }
+                    ],
+                    "RefFru": {
+                      "RefFruClass": "HDDBackplane",
+                      "RefFruObj": "HDDBackplane-2"
+                    },
+                    "Children": [
+                      {
+                        "SilkName": "Disk0",
+                        "ComponentType": "Disk",
+                        "ComponentID": 2,
+                        "Alias": 66048,
+                        "HealthStatus": "Good",
+                        "MaintenceHistroy": [
+                          {
+                            "ReportTimeStamp": 1669974169,
+                            "ReportTimeZone": 60,
+                            "SilkName": "Disk0",
+                            "ComponentType": "Disk",
+                            "ComponentID": 2,
+                            "SN": "S45RNC0T219475",
+                            "Level": "Event",
+                            "EventCodeStr": "INSTALL_COMPONENT",
+                            "Type": "Installation",
+                            "Information": "Device Installation(SN: S45RNC0T219475)."
+                          }
+                        ],
+                        "RefFru": {
+                          "RefFruClass": "Hdd",
+                          "RefFruObj": "Hdd0-2"
+                        },
+                        "Children": []
+                      },
+                      {
+                        "SilkName": "Disk1",
+                        "ComponentType": "Disk",
+                        "ComponentID": 2,
+                        "Alias": 66049,
+                        "HealthStatus": "Good",
+                        "MaintenceHistroy": [
+                          {
+                            "ReportTimeStamp": 1669974169,
+                            "ReportTimeZone": 60,
+                            "SilkName": "Disk1",
+                            "ComponentType": "Disk",
+                            "ComponentID": 2,
+                            "SN": "S45RNC0T219473",
+                            "Level": "Event",
+                            "EventCodeStr": "INSTALL_COMPONENT",
+                            "Type": "Installation",
+                            "Information": "Device Installation(SN: S45RNC0T219473)."
+                          }
+                        ],
+                        "RefFru": {
+                          "RefFruClass": "Hdd",
+                          "RefFruObj": "Hdd1-2"
+                        },
+                        "Children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "SilkName": "CPU2",
+        "ComponentType": "CPU",
+        "ComponentID": 0,
+        "Alias": 65538,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1669974169,
+            "ReportTimeZone": 60,
+            "SilkName": "CPU2",
+            "ComponentType": "CPU",
+            "ComponentID": 0,
+            "PPIN": "48E30E14017CD518",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation(PPIN: 48E30E14017CD518)."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "Cpu",
+          "RefFruObj": "Cpu2"
+        },
+        "Children": [
+          {
+            "SilkName": "Mainboard",
+            "ComponentType": "Mainboard",
+            "ComponentID": 16,
+            "Alias": 69632,
+            "HealthStatus": "Failed",
+            "MaintenceHistroy": [
+              {
+                "ReportTimeStamp": 1657113197,
+                "ReportTimeZone": 60,
+                "SilkName": "Mainboard",
+                "ComponentType": "Mainboard",
+                "ComponentID": 16,
+                "SN": "X52247111969",
+                "Level": "Event",
+                "EventCodeStr": "INSTALL_COMPONENT",
+                "Type": "Installation",
+                "Information": "Device Installation(SN: X52247111969)."
+              }
+            ],
+            "RefFru": {
+              "RefFruClass": "Component",
+              "RefFruObj": "ComMotherBoard"
+            },
+            "Children": [
+              {
+                "SilkName": "DIMM100",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65805,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974318,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM100",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E653F",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E653F)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory100"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM101",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65806,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM101",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6525",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6525)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory101"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM110",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65807,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM110",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6540",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6540)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory110"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM111",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65808,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM111",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E675A",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E675A)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory111"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM120",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65809,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1670580114,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM120",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "2460AE65",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 2460AE65)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory120"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM121",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65810,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM121",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6518",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6518)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory121"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM130",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65811,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM130",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6536",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6536)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory130"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM131",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65812,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM131",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E65C3",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E65C3)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory131"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM140",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65813,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM140",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E65E3",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E65E3)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory140"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM141",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65814,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM141",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6535",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6535)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory141"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM150",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65815,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM150",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E654D",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E654D)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory150"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "DIMM151",
+                "ComponentType": "Memory",
+                "ComponentID": 1,
+                "Alias": 65816,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1669974319,
+                    "ReportTimeZone": 60,
+                    "SilkName": "DIMM151",
+                    "ComponentType": "Memory",
+                    "ComponentID": 1,
+                    "SN": "246E6532",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation(SN: 246E6532)."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "Memory",
+                  "RefFruObj": "Memory151"
+                },
+                "Children": []
+              },
+              {
+                "SilkName": "NIC1",
+                "ComponentType": "NIC",
+                "ComponentID": 13,
+                "Alias": 68865,
+                "HealthStatus": "Good",
+                "MaintenceHistroy": [
+                  {
+                    "ReportTimeStamp": 1670579962,
+                    "ReportTimeZone": 60,
+                    "SilkName": "NIC1",
+                    "ComponentType": "NIC",
+                    "ComponentID": 13,
+                    "SN": "NA",
+                    "Level": "Event",
+                    "EventCodeStr": "INSTALL_COMPONENT",
+                    "Type": "Installation",
+                    "Information": "Device Installation."
+                  }
+                ],
+                "RefFru": {
+                  "RefFruClass": "NetCard",
+                  "RefFruObj": "LomCard-3"
+                },
+                "Children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "SilkName": "Mainboard",
+        "ComponentType": "Mainboard",
+        "ComponentID": 16,
+        "Alias": 69632,
+        "HealthStatus": "Failed",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1657113197,
+            "ReportTimeZone": 60,
+            "SilkName": "Mainboard",
+            "ComponentType": "Mainboard",
+            "ComponentID": 16,
+            "SN": "X52247111969",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation(SN: X52247111969)."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "Component",
+          "RefFruObj": "ComMotherBoard"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "PSU1",
+        "ComponentType": "PSU",
+        "ComponentID": 3,
+        "Alias": 66305,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1669974169,
+            "ReportTimeZone": 60,
+            "SilkName": "PSU1",
+            "ComponentType": "PSU",
+            "ComponentID": 3,
+            "SN": "2102312PEUW0MC019617",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation(SN: 2102312PEUW0MC019617)."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "OnePower",
+          "RefFruObj": "onepower-4"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "PSU2",
+        "ComponentType": "PSU",
+        "ComponentID": 3,
+        "Alias": 66306,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1669974169,
+            "ReportTimeZone": 60,
+            "SilkName": "PSU2",
+            "ComponentType": "PSU",
+            "ComponentID": 3,
+            "SN": "2102312PEUW0MC019615",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation(SN: 2102312PEUW0MC019615)."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "OnePower",
+          "RefFruObj": "onepower-5"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "Fan1",
+        "ComponentType": "Fan",
+        "ComponentID": 4,
+        "Alias": 66561,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1670579962,
+            "ReportTimeZone": 60,
+            "SilkName": "Fan1",
+            "ComponentType": "Fan",
+            "ComponentID": 4,
+            "SN": "NA",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "FANClass",
+          "RefFruObj": "fan1"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "Fan2",
+        "ComponentType": "Fan",
+        "ComponentID": 4,
+        "Alias": 66562,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1670579962,
+            "ReportTimeZone": 60,
+            "SilkName": "Fan2",
+            "ComponentType": "Fan",
+            "ComponentID": 4,
+            "SN": "NA",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "FANClass",
+          "RefFruObj": "fan2"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "Fan3",
+        "ComponentType": "Fan",
+        "ComponentID": 4,
+        "Alias": 66563,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1670579962,
+            "ReportTimeZone": 60,
+            "SilkName": "Fan3",
+            "ComponentType": "Fan",
+            "ComponentID": 4,
+            "SN": "NA",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "FANClass",
+          "RefFruObj": "fan3"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "Fan4",
+        "ComponentType": "Fan",
+        "ComponentID": 4,
+        "Alias": 66564,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1670579962,
+            "ReportTimeZone": 60,
+            "SilkName": "Fan4",
+            "ComponentType": "Fan",
+            "ComponentID": 4,
+            "SN": "NA",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "FANClass",
+          "RefFruObj": "fan4"
+        },
+        "Children": []
+      },
+      {
+        "SilkName": "Chassis",
+        "ComponentType": "Chassis",
+        "ComponentID": 18,
+        "Alias": 70145,
+        "HealthStatus": "Good",
+        "MaintenceHistroy": [
+          {
+            "ReportTimeStamp": 1657113196,
+            "ReportTimeZone": 60,
+            "SilkName": "Chassis",
+            "ComponentType": "Chassis",
+            "ComponentID": 18,
+            "SN": "",
+            "Level": "Event",
+            "EventCodeStr": "INSTALL_COMPONENT",
+            "Type": "Installation",
+            "Information": "Device Installation(SN: )."
+          }
+        ],
+        "RefFru": {
+          "RefFruClass": "Component",
+          "RefFruObj": "ComChassis"
+        },
+        "Children": []
+      }
+    ]
+  }
+}

@@ -2,9 +2,9 @@ import json
 import os
 
 try:
-    from fdm_humanize.util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
+    from fdm_humanize.util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html, summarize_FDM_health_report
 except ImportError:
-    from util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
+    from util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html, summarize_FDM_health_report
 import logging
 
 logging.basicConfig(level=logging.DEBUG)
@@ -19,14 +19,18 @@ class FDMHealthReport:
         self.filepath = filepath
         self.json_data = json.load(open(filepath))
 
+    def get_quick_summary(self) -> str:
+        """Get a quick summary of the health report"""
+
+        pass
+
     def get_faulty_parts(self) -> list:
         """Get a list of faulty parts from the health report"""
 
         return [json_to_html(part) for part in self.json_data["HealthReport"]]
 
 
-
-def analyse_file(filename) -> tuple[list, list, int]:
+def analyse_file(filename) -> tuple[list, list, int, dict]:
     """Analyse a file and return a list of faulty parts and a list of messages"""
     faulty_parts = []
     messages = []
@@ -47,13 +51,17 @@ def analyse_file(filename) -> tuple[list, list, int]:
                 if file == "fdm_health_report.json":
                     logger.info("Analysing %s", os.path.join(root, file))
                     # analyse the health report
-                    faulty_parts = FDMHealthReport(os.path.join(root, file)).get_faulty_parts()
+                    report = FDMHealthReport(os.path.join(root, file))
+                    faulty_parts = report.get_faulty_parts()
                     num_errors += len(faulty_parts)
                 if file == "PD_SMART_INFO_C0":
                     with open(os.path.join(root, file)) as f:
                         messages.extend(analyze_SMART_info(f))
     messages = [json_to_html(message) for message in messages]
-    return faulty_parts, messages, num_errors
+    summary = summarize_FDM_health_report(report.json_data)
+    print(summary)
+    return faulty_parts, messages, num_errors, summary
+
 
 def analyze_SMART_info(f):
     out = []
