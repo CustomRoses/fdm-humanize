@@ -20,6 +20,10 @@ def create_app() -> flask.Flask:
     app.config["UPLOAD_FOLDER"] = "./uploaded_files"
     app.config["EXTRACTED_FOLDER"] = "./extracted"
 
+    @app.route("/")
+    def index():
+        return flask.render_template("index.html")
+
     @app.route('/upload', methods=['POST'])
     def upload_file():
         if flask.request.method == 'POST':
@@ -53,10 +57,6 @@ def create_app() -> flask.Flask:
         print(summary)
         return flask.render_template('file_analysis.html', filename=filename, faulty_parts=faults, num_errors=ne,
                                      messages=msgs, summary=summary)
-
-    @app.route('/')
-    def main_page():
-        return flask.render_template('main_page.html')
 
     return app
 

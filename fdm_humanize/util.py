@@ -90,35 +90,55 @@ def json_to_html(json_dict):
     def process_dict(d):
         nonlocal indent_level, html_string, current_group, current_sub_group
         for key, value in d.items():
+            if key == "History" and isinstance(value, list):
+                indent_level += 1
+                # hide the elements of the history list by default
+                toggle_element_html = "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}' onclick='this.nextElementSibling.style.display = (this.nextElementSibling.style.display === \"block\") ? \"none\" : \"block\"'>{}: {{</div>".format(
+                    indent_level * 20, "#f5f5f5" if current_sub_group % 2 == 0 else "#e8e8e8", key)
+                html_string += toggle_element_html
+                html_string += "<div style='display: none'>"
+                for sub_dict in value:
+                    process_dict(sub_dict)
+                html_string += "</div>"
+                indent_level -= 1
+
             # If the value is a dictionary, increase the indent level and recursively process the dictionary
-            if isinstance(value, dict):
+            elif isinstance(value, dict):
                 indent_level += 1
                 current_group.append(key)
                 current_sub_group += 1
-                html_string += "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}'>{}: {{".format(
+                # Extract the HTML string for the clickable element
+                toggle_element_html = "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}' onclick='this.nextElementSibling.style.display = (this.nextElementSibling.style.display === \"block\") ? \"none\" : \"block\"'>{}: {{</div>".format(
                     indent_level * 20, "#f5f5f5" if current_sub_group % 2 == 0 else "#e8e8e8", key)
+                # Extract the HTML string for the sub-dictionary
+                sub_dict_html = "<div style='display: none'>"
                 process_dict(value)
+                sub_dict_html += "}}</div>"
                 indent_level -= 1
                 current_group.pop()
                 current_sub_group -= 1
-                html_string += "}}</div>"
+                # Add the HTML strings to the main HTML string
+                html_string += toggle_element_html + sub_dict_html
             # If the value is a list, increase the indent level and recursively process each item in the list
             elif isinstance(value, list):
                 indent_level += 1
                 current_group.append(key)
                 current_sub_group += 1
-                html_string += "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}'>{}: [".format(
+                # Extract the HTML string for the list
+                list_html = "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}'>{}: [".format(
                     indent_level * 20, "#f5f5f5" if current_sub_group % 2 == 0 else "#e8e8e8", key)
                 for i, item in enumerate(value):
                     if isinstance(item, dict):
                         process_dict(item)
                     else:
-                        html_string += "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}'>{}: {}</div>".format(
+                        list_html += "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}'>{}: {}</div>".format(
                             (indent_level + 1) * 20, "#f5f5f5" if current_sub_group % 2 == 0 else "#e8e8e8", i, item)
+                list_html += "]</div>"
                 indent_level -= 1
                 current_group.pop()
                 current_sub_group -= 1
-                html_string += "]</div>"
+                # Add the HTML string to the main HTML string
+                html_string += list_html
             # If the value is a string, add it to the HTML string
             else:
                 html_string += "<div style='margin-left: {}px; border-left: 2px solid #333; padding-left: 10px; border-top: 1px solid #333; background-color: {}'>{}: {}</div>".format(
