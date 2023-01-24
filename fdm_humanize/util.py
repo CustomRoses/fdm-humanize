@@ -52,33 +52,6 @@ def extract_from_tar_file(filepath: str, file_names: str | list[str], destinatio
     tar.extractall(members=[f for f in tar.getmembers() if f.name in file_names], path=destination)
 
 
-def summarize_FDM_health_report(json_dict: dict):
-    """
-    Make a short summary of the FDM health report. Take every part that has HealthStatus != "Good" and get the key "Suggestion" from it.
-    """
-    # Get all the sub-dictionaries that have a key "HealthStatus" with a value that is not "Healthy"
-    sub_dicts = get_sub_dicts_with_key_and_not_value(json_dict, "HealthStatus", "Good")
-    # Get the values of the key "Suggestion" from all the sub-dictionaries
-    for sub_dict in sub_dicts:
-        print(sub_dict)
-    result = {}
-    for sub_dict in sub_dicts:
-        if "Suggestion" in sub_dict or "MaintenceHistroy" in sub_dict:
-            suggestion = sub_dict["Suggestion"] if "Suggestion" in sub_dict else ""
-            history = sub_dict["History"] if "History" in sub_dict else ""
-            if "MaintenceHistroy" in sub_dict:
-                history = sub_dict["MaintenceHistroy"]
-            component = sub_dict["ComponentType"]
-            sn = sub_dict["SN"] if "SN" in sub_dict else ""
-            for event in history:
-                print(event)
-                if "SN" in event:
-                    sn = event["SN"]
-            result[(component, sn)] = suggestion
-
-    # Return the suggestions as a string
-    return result
-
 
 def json_to_html(json_dict):
     indent_level = 0
