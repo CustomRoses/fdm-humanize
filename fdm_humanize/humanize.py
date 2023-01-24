@@ -1,13 +1,12 @@
 import json
 import os
+from abc import ABC, abstractmethod
 from dataclasses import dataclass
 
 try:
-    from fdm_humanize.util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html, \
-        summarize_FDM_health_report
+    from fdm_humanize.util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
 except ImportError:
-    from util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html, \
-        summarize_FDM_health_report
+    from util import get_sub_dicts_with_key_and_not_value, extract_from_tar_file, json_to_html
 import logging
 
 logging.basicConfig(level=logging.DEBUG)
@@ -17,6 +16,15 @@ ANALYSABLE_LOGS = ["dump_info/LogDump/fdm_health_report.json", "dump_info/LogDum
                    "dump_info/LogDump/operate_log", "dump_info/LogDump/PD_SMART_INFO_C0"]
 
 
+class Summarizable(ABC):
+    """Abstract class for summarizable classes"""
+
+    @abstractmethod
+    def summarize(self):
+        """Summarize the class"""
+        pass
+
+
 @dataclass
 class FDMResult:
     faulty_parts: list
@@ -24,15 +32,23 @@ class FDMResult:
     num_errors: int
     summary: dict
 
+    def __iter__(self):
+        yield self.faulty_parts
+        yield self.messages
+        yield self.num_errors
+        yield self.summary
+
+
 class FDMHealthReport:
     def __init__(self, filepath: str):
         self.filepath = filepath
         self.json_data = json.load(open(filepath))
 
-    def summarize(json_dict: dict):
+    def summarize(self) -> dict:
         """
         Make a short summary of the FDM health report. Take every part that has HealthStatus != "Good" and get the key "Suggestion" from it.
         """
+        json_dict = self.json_data
         # Get all the sub-dictionaries that have a key "HealthStatus" with a value that is not "Healthy"
         sub_dicts = get_sub_dicts_with_key_and_not_value(json_dict, "HealthStatus", "Good")
         # Get the values of the key "Suggestion" from all the sub-dictionaries
@@ -43,7 +59,7 @@ class FDMHealthReport:
             if "Suggestion" in sub_dict or "MaintenceHistroy" in sub_dict:
                 suggestion = sub_dict["Suggestion"] if "Suggestion" in sub_dict else ""
                 history = sub_dict["History"] if "History" in sub_dict else ""
-                if "MaintenceHistroy" in sub_dict:
+                if "MaintenceHistroy" in sub_dict or "MaintenceHistory" in sub_dict:
                     history = sub_dict["MaintenceHistroy"]
                 component = sub_dict["ComponentType"]
                 sn = sub_dict["SN"] if "SN" in sub_dict else ""
@@ -69,6 +85,7 @@ def analyse_file(filename) -> FDMResult:
     faulty_parts = []
     messages = []
     num_errors = 0
+    report = None
 
     # if the filename is a tar.gz file and has not yet been extracted, extract it to the "extracted" directory
     if filename.endswith(".tar.gz") and not os.path.exists(os.path.join("./extracted", filename[:-7])):
@@ -94,9 +111,8 @@ def analyse_file(filename) -> FDMResult:
 
     # convert messages to HTML and get a summary of the FDM health report
     messages = [json_to_html(message) for message in messages]
-    summary = summarize_FDM_health_report(report.json_data)
+    summary = report.summarize()
     return FDMResult(faulty_parts, messages, num_errors, summary)
-
 
 
 def analyze_SMART_info(f):
@@ -129,13 +145,15 @@ def analyze_SMART_info(f):
                 # if the line ends with ")", remove the last three words
                 if line.endswith(")"):
                     line = " ".join(line.split()[:-3])
+
                 # split the line into pieces and store the information in the dictionary
-                _, attr_name, flag, value, worst, threshhold, type, updated, when_failed, raw_value = line.split()
+                _, attr_name, flag, value, worst, threshhold, type, updated, when_failed, raw_value = line.split() if len(
+                    line.split()) == 10 else line.split() + [""] * (10 - len(line.split()))
                 info_dict[attr_name] = {"flag": flag, "value": value, "worst": worst,
                                         "threshhold": threshhold, "type": type, "updated": updated,
                                         "when_failed": when_failed, "raw_value": raw_value}
     # return the dictionary containing all of the information
-    return info_dict
+    return [info_dict]
 
 
 def extract_logs(filepath: str, destination: str):

@@ -44,7 +44,7 @@ def get_sub_dicts_with_key_and_not_value(d, key, value):
     return sub_dicts
 
 
-def extract_from_tar_file(filepath: str, file_names: str | list[str], destination: str):
+def extract_from_tar_file(filepath, file_names, destination):
     """Extract a file from a list of file objects"""
     if isinstance(file_names, str):
         file_names = [file_names]
